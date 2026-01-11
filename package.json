@@ -2,7 +2,7 @@
   "name": "ice-train-names",
   "scripts": {
     "dev": "bun run --hot src/index.ts",
-    "dev:local": "concurrently \"turso dev --db-file ./local/turso.db\" \"next dev\" \"bunx drizzle-kit studio --config ./src/db/drizzle.config.ts\""
+    "dev:local": "concurrently \"turso dev --db-file ./local/turso.db --auth-jwt-key-file ./local/key.pem \" \"bun dev\" \"bunx drizzle-kit studio --config ./src/db/drizzle.config.ts\""
   },
   "dependencies": {
     "@hono/swagger-ui": "^0.5.3",
@@ -13,6 +13,7 @@
   },
   "devDependencies": {
     "@types/bun": "latest",
+    "concurrently": "^9.2.1",
     "drizzle-kit": "^1.0.0-beta.10-42c284e"
   }
 }
