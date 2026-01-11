@@ -1,0 +1,3264 @@
+[
+  {
+    "classId": "401",
+    "tz": "101",
+    "name": "Gießen",
+    "nameSince": "13.07.2004",
+    "comment": "Der Triebzug war von Dezember 2017 bis April 2018 aufgelöst, die Mittelwagen waren nach dem Entgleisungsschaden des Triebzuges 187 in Basel als Ersatz in diesen eingereiht."
+  },
+  {
+    "classId": "401",
+    "tz": "102",
+    "name": "Flensburg",
+    "nameSince": "25.08.2003",
+    "nameUntil": "08.02.2008"
+  },
+  {
+    "classId": "401",
+    "tz": "102",
+    "name": "Jever",
+    "nameSince": "29.04.2017"
+  },
+  {
+    "classId": "401",
+    "tz": "103",
+    "name": "Neu-Isenburg",
+    "nameSince": "26.05.2011"
+  },
+  {
+    "classId": "401",
+    "tz": "104",
+    "name": "Mühldorf a. Inn",
+    "nameSince": "20.02.2004",
+    "nameUntil": "20.03.2015",
+    "comment": "Am 12.03.2004 kollidierte dieser Triebzug auf der Fahrt als ICE 692 München–Frankfurt–Berlin bei Vallstedt (Salzgitter-Engelnstedt) mit einer Geschwindigkeit von 130 km/h mit einem Auto. Der Autofahrer wurde dabei getötet, am Triebkopf 401 004 entstand erheblicher Sachschaden, sodass der gesamte Triebzug ins Werk Hamburg geschleppt werden musste. Triebkopf 401 004 und der angrenzende Mittelwagen trugen im Mai und Juni 2004 eine Sonderbeklebung Pokalexpress für DFB-Pokal."
+  },
+  {
+    "classId": "401",
+    "tz": "104",
+    "name": "Fulda",
+    "nameSince": "21.03.2015",
+    "comment": "Am 12.03.2004 kollidierte dieser Triebzug auf der Fahrt als ICE 692 München–Frankfurt–Berlin bei Vallstedt (Salzgitter-Engelnstedt) mit einer Geschwindigkeit von 130 km/h mit einem Auto. Der Autofahrer wurde dabei getötet, am Triebkopf 401 004 entstand erheblicher Sachschaden, sodass der gesamte Triebzug ins Werk Hamburg geschleppt werden musste. Triebkopf 401 004 und der angrenzende Mittelwagen trugen im Mai und Juni 2004 eine Sonderbeklebung Pokalexpress für DFB-Pokal."
+  },
+  {
+    "classId": "401",
+    "tz": "105",
+    "name": "Offenbach am Main",
+    "nameSince": "26.08.2003"
+  },
+  {
+    "classId": "401",
+    "tz": "106",
+    "name": "Itzehoe",
+    "nameSince": "05.01.2006",
+    "comment": "Nach einem Stromrichterbrand im Frühjahr 1997 wurde 401 006 auf GTO umgebaut. Als Ersatz wurde Triebkopf 401 513 bis ins Jahr 1998 eingesetzt."
+  },
+  {
+    "classId": "401",
+    "tz": "107",
+    "name": "Plattling",
+    "nameSince": "10.02.2006"
+  },
+  {
+    "classId": "401",
+    "tz": "108",
+    "name": "Lichtenfels",
+    "nameSince": "27.07.2004"
+  },
+  {
+    "classId": "401",
+    "tz": "109",
+    "name": "Aschaffenburg",
+    "nameSince": "21.04.2004",
+    "nameUntil": "23.02.2015",
+    "comment": "ICE 1 Aschaffenburg (Tz 109) im Berliner Ostbahnhof Teile des Triebzuges 109 wurden 2013 zum Messzug 1002 umgebaut. Dieser dient zur Messung von Radscheibenverdrehungen. Von 2013 bis 2024 war der Triebzug 109 aufgelöst, die Mittelwagen wurden anderen Triebzügen zugeteilt und die Triebköpfe dienten als Reserve. Der Triebzug wurde im Zuge des LDV-Programm im Dezember 2024 neu gebildet."
+  },
+  {
+    "classId": "401",
+    "tz": "109",
+    "name": "Lüneburg",
+    "nameSince": "17.12.2024",
+    "comment": "ICE 1 Aschaffenburg (Tz 109) im Berliner Ostbahnhof Teile des Triebzuges 109 wurden 2013 zum Messzug 1002 umgebaut. Dieser dient zur Messung von Radscheibenverdrehungen. Von 2013 bis 2024 war der Triebzug 109 aufgelöst, die Mittelwagen wurden anderen Triebzügen zugeteilt und die Triebköpfe dienten als Reserve. Der Triebzug wurde im Zuge des LDV-Programm im Dezember 2024 neu gebildet."
+  },
+  {
+    "classId": "401",
+    "tz": "110",
+    "name": "Gelsenkirchen",
+    "nameSince": "07.09.2004"
+  },
+  {
+    "classId": "401",
+    "tz": "111",
+    "name": "Nürnberg",
+    "nameSince": "20.02.2004",
+    "nameUntil": "02.07.2016",
+    "comment": "erster Redesign-Zug"
+  },
+  {
+    "classId": "401",
+    "tz": "112",
+    "name": "Memmingen",
+    "nameSince": "20.02.2004",
+    "comment": "Beide Triebköpfe trugen im Jahre 2018 eine Werbebeklebung für DB&Duplo „Die wahrscheinlich schnellste Praline auf deutscher Schiene!“."
+  },
+  {
+    "classId": "401",
+    "tz": "113",
+    "name": "Frankenthal/Pfalz",
+    "nameSince": "19.05.2005",
+    "comment": "Zur Erprobung des Konzepts des verteilten Antriebs verkehrte Ende der 1990er Jahre der ICE-1-Triebzug 113 mit Triebköpfen der Bauart ICE 2 und einem neuen, angetriebenen Mittelwagen als ICE D. Am 17. November 2023 wurden der führende Triebkopf und 4 nachfolgende Mittelwagen im Bahnhof Reichertshausen bei einer Flankenfahrt mit einer Regionalbahn beschädigt. Der ICE war auf dem Weg als ICE 703 von Berlin nach München. Kehrte im Oktober 2024 als Kurzzug in den Einsatz zurück. Jedoch mit Mittelwagen aus Tz 153 und dem Reserve-Triebkopf 401 051."
+  },
+  {
+    "classId": "401",
+    "tz": "114",
+    "name": "Friedrichshafen",
+    "nameSince": "14.06.2005",
+    "comment": "Am 14. September 2011 verunglückte dieser ICE-Triebzug als ICE 597 auf dem Weg von Ulm nach München auf dem Bahnübergang Waldstraße in Nersingen bei einer Kollision mit einem Pkw. Als Unfallursache wurde festgestellt, dass eine 77-jährige Autofahrerin das Rotlicht am Bahnübergang aufgrund einer Blendung durch die tiefstehende Sonne missachtet hatte und zwischen den sich schließenden Vollschranken eingesperrt wurde. Der Fahrdienstleiter des Bf. Nersingen seinerseits bemerkte dies trotz Kameraüberwachung nicht und gab den Fahrweg für den Zug frei. Bei der folgenden Kollision in einem leichten Rechtsbogen wurde der Pkw bei einer Geschwindigkeit von 160 km/h erfasst und zerrissen. Da die Autofahrerin sich in Sicherheit bringen konnte, gab es – auch im Zug – keinerlei Personenschäden. Am Triebkopf 401 514 entstand ein Schaden von etwa 1,5 Millionen EUR, er wurde repariert. Die gegen den Fahrdienstleiter wie auch die Autofahrerin eingeleiteten Ermittlungen wurden gegen Zahlung von Geldbußen in Höhe von 4000,- EUR bzw. 2000,- EUR eingestellt."
+  },
+  {
+    "classId": "401",
+    "tz": "115",
+    "name": "Regensburg",
+    "nameSince": "20.02.2004"
+  },
+  {
+    "classId": "401",
+    "tz": "116",
+    "name": "Pforzheim",
+    "nameSince": "01.07.2004"
+  },
+  {
+    "classId": "401",
+    "tz": "117",
+    "name": "Hof",
+    "nameSince": "06.10.2005"
+  },
+  {
+    "classId": "401",
+    "tz": "118",
+    "name": "Tz 118",
+    "nameSince": "07.02.1991"
+  },
+  {
+    "classId": "401",
+    "tz": "119",
+    "name": "Osnabrück",
+    "nameSince": "19.06.2003"
+  },
+  {
+    "classId": "401",
+    "tz": "120",
+    "name": "Lüneburg",
+    "nameSince": "13.08.2003",
+    "nameUntil": "08.09.2005",
+    "comment": "In der Nacht vom 22. zum 23. November 2001 brannte im Hauptbahnhof Offenbach der Triebkopf 401 020 aus und musste ausgemustert werden. Der angrenzende Mittelwagen 802 806 wurde beschädigt. Der Triebkopf diente fortan als Ersatzteilspender, Überreste standen im Frühjahr 2016 noch immer im AW Nürnberg auf einem Werksnebengleis abgestellt. Der restliche Teil vom Triebzug 120 wurde mit einem Reserve-Triebkopf bis ins Jahr 2024 eingesetzt. Nach dem Durchlaufen des LDV-Programms, wurde anstelle des Tz 120 der Tz 109 neu gebildet, da von diesem noch beide Triebköpfe erhalten sind."
+  },
+  {
+    "classId": "401",
+    "tz": "151",
+    "name": "Tz 151",
+    "nameSince": "01.05.1991",
+    "nameUntil": "30.06.1998",
+    "comment": "Am Vormittag des 3. Juni 1998 entgleiste der ICE-1-Triebzug 151 auf der Bahnstrecke Hannover–Hamburg bei Eschede, etwa 60 Kilometer nördlich von Hannover. Der Triebzug war als ICE 884 „Wilhelm Conrad Röntgen“ auf dem Weg von München nach Hamburg, als der erste Wagen infolge eines gebrochenen Radreifens eine Weiche aufdrückte. Der Triebzug 151 wurde bei dem Unglück weitgehend zerstört. Lediglich der damals nahezu unbeschädigte Triebkopf 401 051 ist weiterhin im Einsatz. Der hintere Triebkopf wurde für den Wiederaufbau des Triebkopfes 401 573 verwendet."
+  },
+  {
+    "classId": "401",
+    "tz": "152",
+    "name": "Hanau",
+    "nameSince": "05.07.2004"
+  },
+  {
+    "classId": "401",
+    "tz": "153",
+    "name": "Neumünster",
+    "nameSince": "20.08.2003",
+    "comment": "Im April 2006 prallte der Triebkopf 401 553 auf der Riedbahn bei Riedstadt bei einer Geschwindigkeit von etwa 160 km/h mit einem Pkw zusammen. Der Triebkopf entgleiste und kam nach etwa 800 m zum Stehen. Ein Betrunkener war mit dem Auto auf dem stillgelegten und geschlossenen Bahnübergang liegengeblieben. Im Zug wurde niemand verletzt. Der Fahrer des PKW hatte das Fahrzeug kurz vor dem Zusammenstoß verlassen, war anschließend geflüchtet, konnte jedoch später gefasst werden."
+  },
+  {
+    "classId": "401",
+    "tz": "154",
+    "name": "Flensburg",
+    "nameSince": "26.09.2008",
+    "comment": "Am 04.11.2013 rutschte der ICE im Stuttgarter Hbf auf den Prellbock auf."
+  },
+  {
+    "classId": "401",
+    "tz": "155",
+    "name": "Rosenheim",
+    "nameSince": "28.04.2003"
+  },
+  {
+    "classId": "401",
+    "tz": "156",
+    "name": "Heppenheim/Bergstraße",
+    "nameSince": "22.08.2008"
+  },
+  {
+    "classId": "401",
+    "tz": "157",
+    "name": "Landshut",
+    "nameSince": "07.07.2007"
+  },
+  {
+    "classId": "401",
+    "tz": "158",
+    "name": "Gütersloh",
+    "nameSince": "14.07.2004"
+  },
+  {
+    "classId": "401",
+    "tz": "159",
+    "name": "Bad Oldesloe",
+    "nameSince": "03.03.2004",
+    "comment": "Am 5. Juni 2004 entgleiste der Triebkopf 401 059 im Hauptbahnhof München bei einer Rangierfahrt auf einer Weiche."
+  },
+  {
+    "classId": "401",
+    "tz": "160",
+    "name": "Mülheim an der Ruhr",
+    "nameSince": "28.10.2008",
+    "comment": "Die Triebköpfe 401 060 und 560 sind seit Ende 2018 mit neuen IGBT-Stromrichtern als Erprobungsträger ausgestattet und waren an DB Systemtechnik für Erprobungsfahrten vermietet. Der Triebzug verkehrte deshalb zwischen 2018 und 2020 mit anderen Triebköpfen aus dem Reservebestand."
+  },
+  {
+    "classId": "401",
+    "tz": "161",
+    "name": "Bebra",
+    "nameSince": "19.07.2003",
+    "comment": "Am 6. September 2015 verkehrte ein Sonderzug ICE 2938 mit Flüchtlingen von München nach Eisenhüttenstadt. Dieser war aus dem Triebzug 161 „Bebra“ gebildet. Es war zudem die erste Fahrt eines ICE1 nach Eisenhüttenstadt überhaupt."
+  },
+  {
+    "classId": "401",
+    "tz": "162",
+    "name": "Geisenheim/Rheingau",
+    "nameSince": "10.11.2005"
+  },
+  {
+    "classId": "401",
+    "tz": "163",
+    "name": "Tz 163",
+    "nameSince": "01.06.1991"
+  },
+  {
+    "classId": "401",
+    "tz": "164",
+    "name": "Tz 164",
+    "nameSince": "10.10.1991",
+    "comment": "Am 4. Februar 2018 gab es im Triebkopf 401 064 eine Rauchentwicklung und 600 Personen mussten im Bahnhof Adelschlag aus dem ICE 582 evakuiert werden. Als Ersatz für die Stammtriebköpfe 064 und 564 waren von Februar 2018 bis Mai 2018 die beiden ICE 2-Reservetriebköpfe in den Triebzug eingereiht."
+  },
+  {
+    "classId": "401",
+    "tz": "165",
+    "name": "Tz 165",
+    "nameSince": "20.09.1991"
+  },
+  {
+    "classId": "401",
+    "tz": "166",
+    "name": "Gelnhausen",
+    "nameSince": "24.04.2009"
+  },
+  {
+    "classId": "401",
+    "tz": "167",
+    "name": "Garmisch-Partenkirchen",
+    "nameSince": "18.02.2006",
+    "comment": "Beide Triebköpfe trugen von Juni bis Dezember 2011 eine Sonderbeklebung für Frauenfußball-Weltmeisterschaft 2011."
+  },
+  {
+    "classId": "401",
+    "tz": "168",
+    "name": "Crailsheim",
+    "nameSince": "19.10.2004"
+  },
+  {
+    "classId": "401",
+    "tz": "169",
+    "name": "Worms",
+    "nameSince": "12.09.2006"
+  },
+  {
+    "classId": "401",
+    "tz": "170",
+    "name": "Tz 170",
+    "nameSince": "31.01.1992",
+    "comment": "Beide Triebköpfe trugen im Mai und Juni 2010 eine Sonderbeklebung Pokalexpress für DFB-Pokal."
+  },
+  {
+    "classId": "401",
+    "tz": "171",
+    "name": "Heusenstamm",
+    "nameSince": "13.12.1991",
+    "comment": "Der Triebzug 171 wurde im Winter 2016 mit den Triebköpfen 401 007 und 401 051 versehen, welche das neue ETCS-Bordgerät enthalten, und um drei Wagen gekürzt. Ab Mai 2017 wurden mit dieser Garnitur ETCS-Testfahrten auf der VDE8 vorgenommen. Im März 2019 wurde dieser Triebzug komplett aufgelöst. Die Triebköpfe fuhren als Reservefahrzeuge in anderen Triebzügen. Seit Dezember 2022 ist er als LDV-Zug wieder im Einsatz."
+  },
+  {
+    "classId": "401",
+    "tz": "172",
+    "name": "Mülheim an der Ruhr",
+    "nameSince": "21.09.2007",
+    "nameUntil": "28.10.2008"
+  },
+  {
+    "classId": "401",
+    "tz": "172",
+    "name": "Aschaffenburg",
+    "nameSince": "23.02.2015"
+  },
+  {
+    "classId": "401",
+    "tz": "173",
+    "name": "Timmendorfer Strand",
+    "nameSince": "04.02.2004",
+    "nameUntil": "16.11.2007",
+    "comment": "→ Hauptartikel: „Kollision in Thun“ im Artikel ICE 1 Am 28. April 2006 kollidierte um 6.31 Uhr der ICE-1-Triebzug 173 auf der Strecke Thun–Spiez vor dem Bahnhof Thun mit zwei Lokomotiven der BLS AG. Die Deutsche Bahn entschied sich noch 2006, den verunglückten Triebzug instand zu setzen. Die Einstiegsbereiche der schwer beschädigten (gestauchten) Erste-Klasse-Wagen mussten neu aufgebaut werden. Der Triebzug 173 verkehrt in der Zwischenzeit mit den Erste-Klasse-Wagen des Triebzuges 111. Die beiden Triebköpfe 401 073 und 573 waren am 23. Oktober 1992 mit zwei Erste-Klasse-Wagen (Raucher und Nichtraucher), einem Speisewagen, dem Servicewagen für das Zugbegleitpersonal sowie zwei Wagen der zweiten Klasse (Raucher und Nichtraucher) aus dem Tz 173 und außerdem mit daran angeschlossenen zweiten Speisewagen und zwei Wagen der ersten Klasse aus einem anderen Triebzug wegen des Besuchs von Königin Elisabeth II. in dieser veränderten Konfiguration im Einsatz. Der zweite Speisewagen war zum Thronsaal umgerüstet worden, die beiden zusätzlichen Wagen der ersten Klasse waren für die britischen Ehrengäste und deren Begleiter vorgesehen."
+  },
+  {
+    "classId": "401",
+    "tz": "173",
+    "name": "Basel",
+    "nameSince": "21.06.2016",
+    "comment": "→ Hauptartikel: „Kollision in Thun“ im Artikel ICE 1 Am 28. April 2006 kollidierte um 6.31 Uhr der ICE-1-Triebzug 173 auf der Strecke Thun–Spiez vor dem Bahnhof Thun mit zwei Lokomotiven der BLS AG. Die Deutsche Bahn entschied sich noch 2006, den verunglückten Triebzug instand zu setzen. Die Einstiegsbereiche der schwer beschädigten (gestauchten) Erste-Klasse-Wagen mussten neu aufgebaut werden. Der Triebzug 173 verkehrt in der Zwischenzeit mit den Erste-Klasse-Wagen des Triebzuges 111. Die beiden Triebköpfe 401 073 und 573 waren am 23. Oktober 1992 mit zwei Erste-Klasse-Wagen (Raucher und Nichtraucher), einem Speisewagen, dem Servicewagen für das Zugbegleitpersonal sowie zwei Wagen der zweiten Klasse (Raucher und Nichtraucher) aus dem Tz 173 und außerdem mit daran angeschlossenen zweiten Speisewagen und zwei Wagen der ersten Klasse aus einem anderen Triebzug wegen des Besuchs von Königin Elisabeth II. in dieser veränderten Konfiguration im Einsatz. Der zweite Speisewagen war zum Thronsaal umgerüstet worden, die beiden zusätzlichen Wagen der ersten Klasse waren für die britischen Ehrengäste und deren Begleiter vorgesehen."
+  },
+  {
+    "classId": "401",
+    "tz": "174",
+    "name": "Zürich",
+    "nameSince": "20.01.2006"
+  },
+  {
+    "classId": "401",
+    "tz": "175",
+    "name": "Nürnberg",
+    "nameSince": "20.08.2016",
+    "comment": "Am 17. Februar 2019 entgleiste der Triebzug 175 auf der Fahrt als ICE 373 von Berlin nach Interlaken in Basel mit dem ersten Triebkopf und dem dahinter laufenden Mittelwagen der zweiten Klasse. Bei dem Unfall wurde niemand schwer verletzt. Alle etwa 250 Reisenden konnten evakuiert werden und setzen ihre Fahrt in anderen Zügen fort. Es entstand erheblicher Sachschaden am Triebzug und den Bahnanlagen. Der Triebzug ist seit 1. März 2019 wieder im Einsatz."
+  },
+  {
+    "classId": "401",
+    "tz": "176",
+    "name": "Bremen",
+    "nameSince": "12.12.2002",
+    "comment": "Um 1995 wurde in den Wagen 802 406 und 452 (damals Triebzug 76) neuartige Klimaanlagen, die Luft als Prozessgas verwendeten und damit ohne Kältemittel auskamen, erprobt. Diese Anlagen wurden schließlich in den ICE 3 serienmäßig eingebaut. Am 12. April 2004 stieß der 401 076 bei einer Rangierfahrt (ohne Fahrgäste) im Hauptbahnhof Kiel mit einem Zug der Nord-Ostsee-Bahn zusammen."
+  },
+  {
+    "classId": "401",
+    "tz": "177",
+    "name": "Basel",
+    "nameSince": "18.06.2004",
+    "nameUntil": "20.06.2016",
+    "comment": "Beide Triebköpfe tragen die Schriftzüge „25 Jahre ICE, in Kooperation mit SBB CFF FFS“."
+  },
+  {
+    "classId": "401",
+    "tz": "177",
+    "name": "Rendsburg",
+    "nameSince": "21.06.2016",
+    "comment": "Beide Triebköpfe tragen die Schriftzüge „25 Jahre ICE, in Kooperation mit SBB CFF FFS“."
+  },
+  {
+    "classId": "401",
+    "tz": "178",
+    "name": "Bremerhaven",
+    "nameSince": "13.11.2003"
+  },
+  {
+    "classId": "401",
+    "tz": "Tz 179",
+    "name": "Chur",
+    "nameSince": "12.12.2015",
+    "comment": "Der Triebzug 179 wurde am 12. Dezember 2015 mit „Chur“ beschriftet in die Schweiz gefahren, getauft wurde dann jedoch Triebzug 186."
+  },
+  {
+    "classId": "401",
+    "tz": "180",
+    "name": "Castrop-Rauxel",
+    "nameSince": "04.11.2004"
+  },
+  {
+    "classId": "401",
+    "tz": "181",
+    "name": "Interlaken",
+    "nameSince": "07.12.2007",
+    "comment": "Beide Triebköpfe trugen die Schriftzüge „25 Jahre ICE, in Kooperation mit SBB CFF FFS“."
+  },
+  {
+    "classId": "401",
+    "tz": "182",
+    "name": "Rüdesheim am Rhein",
+    "nameSince": "08.05.2008"
+  },
+  {
+    "classId": "401",
+    "tz": "183",
+    "name": "Timmendorfer Strand",
+    "nameSince": "16.11.2007"
+  },
+  {
+    "classId": "401",
+    "tz": "184",
+    "name": "Bruchsal",
+    "nameSince": "23.07.2003",
+    "comment": "→ Hauptartikel: ICE Train North America Tour Im Juni 1993 wurde ein achtteiliger ICE-1-Triebzug von Bremerhaven aus in die Vereinigten Staaten verschifft. Die achtteilige Garnitur umfasste unter anderem die Triebköpfe 401 084 und 584, drei Mittel- und einen Servicewagen der zweiten Klasse, einen Speisewagen sowie einen Wagen der ersten Klasse. Technische Anpassungen waren seit April 1993 durch die Industrie vorgenommen worden, insbesondere für das Bahnstromsystem des Northeast Corridor (11 kV mit 25 Hz) und an den Radprofilen. Die Garnitur unternahm Präsentationsfahrten zu 25 Großstädten in den Vereinigten Staaten und Kanada und wurde ab dem 4. Oktober für zwei Monate auf der Linie New York City – Washington, D.C. im Plandienst als Metroliner eingesetzt, auf anderen Strecken wurde er von Dieselloks gezogen."
+  },
+  {
+    "classId": "401",
+    "tz": "185",
+    "name": "Freilassing",
+    "nameSince": "18.07.2008"
+  },
+  {
+    "classId": "401",
+    "tz": "186",
+    "name": "Chur",
+    "nameSince": "13.12.2015",
+    "comment": "Zum 30-jährigen Jubiläum wurden beide Triebköpfe in ursprünglicher Farbgebung und mit einem alten DB-Bundesbahn-Logo versehen sowie der Aufschrift „30 Jahre ICE“. Dieser Triebzug ist am 17. August 2022 in Berlin-Grunewald entgleist und wurde dabei beschädigt. Reisende wurden nicht verletzt. Seit dem 25. März 2023 ist der Triebzug nach Reparatur wieder im planmäßigen Einsatz."
+  },
+  {
+    "classId": "401",
+    "tz": "187",
+    "name": "Fulda",
+    "nameSince": "27.11.2002",
+    "nameUntil": "20.03.2015",
+    "comment": "Der Triebzug entgleiste am 29. November 2017 als ICE 75 zwischen Basel Badischer Bahnhof und Basel SBB mit Speisewagen und Servicewagen. Nach dem Unfall wurde dieser Triebzug aufgelöst und einige Wagen dieses Triebzuges mit den beiden umgebauten Triebköpfen (401 060, 560) für Stromrichtertestfahrten an DB Systemtechnik vermietet. Seit Oktober 2021 befindet sich der Zug mit den Wagen 1–6, 9, 11 und 12 wieder im Planbetrieb. Es fehlt somit das Bordrestaurant. Außerdem ist der Wagen 6 nun ein deklassierter erste-Klasse-Wagen. Am 8. Oktober 2022 standen die beiden Triebköpfe ohne Mittelwagen im Rangierbereich von Aachen Hbf. Dieser Triebzug ist seit der LDV wieder mit einem Bordrestaurant unterwegs und der Servicewagen 6 ist der 2. Klasse zugeordnet."
+  },
+  {
+    "classId": "401",
+    "tz": "187",
+    "name": "Mühldorf a. Inn",
+    "nameSince": "21.03.2015",
+    "comment": "Der Triebzug entgleiste am 29. November 2017 als ICE 75 zwischen Basel Badischer Bahnhof und Basel SBB mit Speisewagen und Servicewagen. Nach dem Unfall wurde dieser Triebzug aufgelöst und einige Wagen dieses Triebzuges mit den beiden umgebauten Triebköpfen (401 060, 560) für Stromrichtertestfahrten an DB Systemtechnik vermietet. Seit Oktober 2021 befindet sich der Zug mit den Wagen 1–6, 9, 11 und 12 wieder im Planbetrieb. Es fehlt somit das Bordrestaurant. Außerdem ist der Wagen 6 nun ein deklassierter erste-Klasse-Wagen. Am 8. Oktober 2022 standen die beiden Triebköpfe ohne Mittelwagen im Rangierbereich von Aachen Hbf. Dieser Triebzug ist seit der LDV wieder mit einem Bordrestaurant unterwegs und der Servicewagen 6 ist der 2. Klasse zugeordnet."
+  },
+  {
+    "classId": "401",
+    "tz": "188",
+    "name": "Hildesheim",
+    "nameSince": "13.06.2008"
+  },
+  {
+    "classId": "401",
+    "tz": "189",
+    "name": "Castrop-Rauxel",
+    "nameSince": "20.12.2007",
+    "nameUntil": "12.11.2013",
+    "comment": "Am 8. November 2007 stellte der auf rund 200 m Länge verkürzte Triebzug 189 während ETCS-Abnahmefahrten im Lötschberg-Basistunnel zwischen Ferden und Lötschen mit 288 km/h einen neuen Geschwindigkeitsrekord für Schienenfahrzeuge in der Schweiz auf. Die Einheit war mit einem modifizierten Stromabnehmer ausgerüstet, wobei in einem der beiden Triebköpfe nur zwei der vier (insgesamt sechs von acht) Fahrmotoren zur Verfügung standen."
+  },
+  {
+    "classId": "401",
+    "tz": "189",
+    "name": "Tz 189",
+    "nameSince": "12.11.2013",
+    "comment": "Am 8. November 2007 stellte der auf rund 200 m Länge verkürzte Triebzug 189 während ETCS-Abnahmefahrten im Lötschberg-Basistunnel zwischen Ferden und Lötschen mit 288 km/h einen neuen Geschwindigkeitsrekord für Schienenfahrzeuge in der Schweiz auf. Die Einheit war mit einem modifizierten Stromabnehmer ausgerüstet, wobei in einem der beiden Triebköpfe nur zwei der vier (insgesamt sechs von acht) Fahrmotoren zur Verfügung standen."
+  },
+  {
+    "classId": "401",
+    "tz": "190",
+    "name": "Ludwigshafen am Rhein",
+    "nameSince": "10.02.2004"
+  },
+  {
+    "classId": "415",
+    "tz": "1501",
+    "name": "Eisenach",
+    "nameSince": "13.05.2003",
+    "nameUntil": "24.02.2024",
+    "comment": "Seit Dezember 2025 in Opladen zur Verschrottung. Am 27. Dezember 2025 wurde der Triebzug jedoch wieder abgeholt und nach Krefeld überführt."
+  },
+  {
+    "classId": "415",
+    "tz": "1502",
+    "name": "Karlsruhe",
+    "nameSince": "18.12.2002",
+    "nameUntil": "11.06.2025",
+    "comment": "Am 4. Dezember 2012 wurde der Triebzug 1502 zur offiziellen Eröffnungsfahrt des Katzenbergtunnels eingesetzt. Dieser Triebzug dient dem Betriebswerk Leipzig als Ersatzteilspender und ist dort abgestellt."
+  },
+  {
+    "classId": "415",
+    "tz": "1503",
+    "name": "Altenbeken",
+    "nameSince": "11.07.2003"
+  },
+  {
+    "classId": "415",
+    "tz": "1504",
+    "name": "Heidelberg",
+    "nameSince": "26.11.1999",
+    "nameUntil": "30.08.2025",
+    "comment": "Am 9. Dezember 2015 wurde der Triebzug 1504 mit der Beschriftung Erfurt zur offiziellen Eröffnungsfahrt der Schnellfahrstrecke Erfurt–Leipzig/Halle eingesetzt Dieser Triebzug dient dem Betriebswerk Leipzig als Ersatzteilspender und ist dort abgestellt."
+  },
+  {
+    "classId": "415",
+    "tz": "1505",
+    "name": "Marburg/Lahn",
+    "nameSince": "05.06.2003",
+    "nameUntil": "18.04.2025"
+  },
+  {
+    "classId": "415",
+    "tz": "1506",
+    "name": "Kassel",
+    "nameSince": "17.12.2002",
+    "nameUntil": "19.05.2025"
+  },
+  {
+    "classId": "415",
+    "tz": "1520",
+    "name": "Gotha",
+    "nameSince": "08.11.2006"
+  },
+  {
+    "classId": "415",
+    "tz": "1521",
+    "name": "Homburg/Saar",
+    "nameSince": "08.11.2006",
+    "nameUntil": "14.06.2025",
+    "comment": "Am 6. März 2024 als führender Triebzug des ICE 1651 (Wiesbaden Hbf – Dresden Hbf) in Leipzig Hbf auf den Prellbock von Gleis 14 aufgefahren."
+  },
+  {
+    "classId": "415",
+    "tz": "1522",
+    "name": "Torgau",
+    "nameSince": "02.01.2007",
+    "nameUntil": "08.06.2025",
+    "comment": "ausgeliefert mit Mittelwagen aus Tz 1506; Von Anfang 2010 bis September 2011 mit Jubiläumsbeklebung 175 Jahre deutsche Eisenbahn anstelle des Taufnamens."
+  },
+  {
+    "classId": "415",
+    "tz": "1523",
+    "name": "Hansestadt Greifswald",
+    "nameSince": "08.11.2006"
+  },
+  {
+    "classId": "415",
+    "tz": "1524",
+    "name": "Hansestadt Rostock",
+    "nameSince": "12.09.2006"
+  },
+  {
+    "classId": "415",
+    "tz": "1580",
+    "name": "Darmstadt",
+    "nameSince": "28.05.1999",
+    "nameUntil": "08.11.2006"
+  },
+  {
+    "classId": "415",
+    "tz": "1581",
+    "name": "Horb am Neckar",
+    "nameSince": "23.06.2003",
+    "nameUntil": "08.11.2006"
+  },
+  {
+    "classId": "415",
+    "tz": "1582",
+    "name": "Mainz",
+    "nameSince": "17.01.2003",
+    "nameUntil": "23.01.2007"
+  },
+  {
+    "classId": "415",
+    "tz": "1583",
+    "name": "Oberursel",
+    "nameSince": "28.05.1999",
+    "nameUntil": "29.11.2006"
+  },
+  {
+    "classId": "415",
+    "tz": "1584",
+    "name": "Kaiserslautern",
+    "nameSince": "26.03.2003",
+    "nameUntil": "12.09.2006"
+  },
+  {
+    "classId": "402",
+    "tz": "201",
+    "name": "Rheinsberg",
+    "nameSince": "15.10.2005",
+    "comment": "Der Steuerwagen 808 001 diente als Umbauprototyp für das Redesign und fuhr schon vor dem ersten Redesign-Zug mit veränderter Innenausstattung."
+  },
+  {
+    "classId": "402",
+    "tz": "202",
+    "name": "Wuppertal",
+    "nameSince": "01.07.2003",
+    "comment": "Letzter Redesign-Zug"
+  },
+  {
+    "classId": "402",
+    "tz": "203",
+    "name": "Cottbus/Chóśebuz",
+    "nameSince": "07.12.2002",
+    "nameUntil": "24.09.2024",
+    "comment": "wurde im Februar 2025 in Eberswalde verschrottet"
+  },
+  {
+    "classId": "402",
+    "tz": "204",
+    "name": "Bielefeld",
+    "nameSince": "15.11.2002"
+  },
+  {
+    "classId": "402",
+    "tz": "205",
+    "name": "Zwickau",
+    "nameSince": "31.07.2004",
+    "nameUntil": "01.04.2024",
+    "comment": "Mittelwagen sind seit 2025 abgestellt, Triebkopf und Steuerwagen dienten bis August 2025 als Reservefahrzeuge und sind seitdem im SSM Leipzig–Engelsdorf abgestellt"
+  },
+  {
+    "classId": "402",
+    "tz": "206",
+    "name": "Magdeburg",
+    "nameSince": "25.11.2002"
+  },
+  {
+    "classId": "402",
+    "tz": "207",
+    "name": "Stendal",
+    "nameSince": "13.01.2003",
+    "nameUntil": "10.06.2025",
+    "comment": "Der Triebzug wurde im Juni 2025 ins SSM Leipzig-Engelsdorf abgestellt und anschließend, im August 2025, der Verschrottung zugeführt"
+  },
+  {
+    "classId": "402",
+    "tz": "208",
+    "name": "Bonn",
+    "nameSince": "17.12.2002"
+  },
+  {
+    "classId": "402",
+    "tz": "209",
+    "name": "Riesa",
+    "nameSince": "30.08.2003",
+    "nameUntil": "09.01.2025",
+    "comment": "Triebzug wurde zusammen mit weiteren Fahrzeugen, darunter ein Bordrestaurant, aus anderen Triebzügen am 09.01.2025 in SM Mukran überführt."
+  },
+  {
+    "classId": "402",
+    "tz": "210",
+    "name": "Fontanestadt Neuruppin",
+    "nameSince": "18.03.2006"
+  },
+  {
+    "classId": "402",
+    "tz": "211",
+    "name": "Uelzen",
+    "nameSince": "30.08.2008"
+  },
+  {
+    "classId": "402",
+    "tz": "212",
+    "name": "Potsdam",
+    "nameSince": "19.03.2003",
+    "nameUntil": "25.07.2025",
+    "comment": "Am 4. November 2017 in Sonderlackierung als „TRAIN TO BONN“ zur UN-Klimakonferenz in Bonn 2017 unterwegs. Der Triebzug wurde im August 2025 ins SSM Leipzig-Engelsdorf überführt"
+  },
+  {
+    "classId": "402",
+    "tz": "213",
+    "name": "Nauen",
+    "nameSince": "01.12.2007"
+  },
+  {
+    "classId": "402",
+    "tz": "214",
+    "name": "Hamm (Westf.)",
+    "nameSince": "25.09.1997",
+    "nameUntil": "25.07.2025",
+    "comment": "Der Triebzug wurde im August 2025 ins SSM Leipzig-Engelsdorf überführt"
+  },
+  {
+    "classId": "402",
+    "tz": "215",
+    "name": "Bitterfeld-Wolfen",
+    "nameSince": "17.07.2004",
+    "nameUntil": "06.12.2025"
+  },
+  {
+    "classId": "402",
+    "tz": "216",
+    "name": "Dessau",
+    "nameSince": "12.12.2002",
+    "nameUntil": "18.07.2024",
+    "comment": "Dieser Triebzug wurde am 18. Juli 2024 ins Stillstandmanagement Mukran gebracht und anschließend im Oktober 2024 nach Eberswalde umgesetzt. Die Verschrottung durch die Firma Steil ist erfolgt."
+  },
+  {
+    "classId": "402",
+    "tz": "217",
+    "name": "Bergen auf Rügen",
+    "nameSince": "09.07.2005",
+    "comment": "Triebkopf und erster Wagen der ersten Klasse trugen im Mai und Juni 2015 eine Sonderbeklebung Pokalexpress für DFB-Pokal."
+  },
+  {
+    "classId": "402",
+    "tz": "218",
+    "name": "Braunschweig",
+    "nameSince": "12.11.2002",
+    "nameUntil": "21.09.2025"
+  },
+  {
+    "classId": "402",
+    "tz": "219",
+    "name": "Hagen",
+    "nameSince": "19.07.2003",
+    "comment": "Dieser Triebzug wurde zusammen mit Triebzug 239 im März und April 2025 für Mess- und Einstellungsarbeiten der Entrauchungs- und Lüftungsanlage in den neuen Tunneln und im neuen Stuttgart Hbf (tief) eingesetzt."
+  },
+  {
+    "classId": "402",
+    "tz": "220",
+    "name": "Meiningen",
+    "nameSince": "01.10.2005",
+    "comment": "aufgelöst, Triebkopf und Mittelwagen für IGBT-Testfahrten an DB Systemtechnik vermietet; seit dem 11.10.2021 wieder im Planeinsatz."
+  },
+  {
+    "classId": "402",
+    "tz": "221",
+    "name": "Lübbenau/Spreewald",
+    "nameSince": "27.03.2004",
+    "comment": "Am 9. Juli 2009 geriet der Triebkopf 402 021-0 in Hannover Hauptbahnhof in Brand."
+  },
+  {
+    "classId": "402",
+    "tz": "222",
+    "name": "Eberswalde",
+    "nameSince": "12.05.2007"
+  },
+  {
+    "classId": "402",
+    "tz": "223",
+    "name": "Schwerin",
+    "nameSince": "03.10.2003"
+  },
+  {
+    "classId": "402",
+    "tz": "224",
+    "name": "Saalfeld (Saale)",
+    "nameSince": "05.01.1998"
+  },
+  {
+    "classId": "402",
+    "tz": "225",
+    "name": "Oldenburg (Oldb.)",
+    "nameSince": "17.12.1997"
+  },
+  {
+    "classId": "402",
+    "tz": "226",
+    "name": "Lutherstadt Wittenberg",
+    "nameSince": "26.11.2002"
+  },
+  {
+    "classId": "402",
+    "tz": "227",
+    "name": "Ludwigslust",
+    "nameSince": "21.08.2004",
+    "nameUntil": "02.09.2024",
+    "comment": "Bei einem Rangierunfall in Berlin-Rummelsburg wurde Triebkopf 402 027 am 16. Mai 2014 stark beschädigt. Überführung am 11. September 2024 ins SSM Mukran, Überführung am 7. Januar 2025 von Mukran nach Eberswalde zur Verschrottung bei Fa. Steil. Dies ist inzwischen erfolgt."
+  },
+  {
+    "classId": "402",
+    "tz": "228",
+    "name": "Oldenburg (Oldb.)",
+    "nameSince": "05.08.2003",
+    "nameUntil": "26.06.2009"
+  },
+  {
+    "classId": "402",
+    "tz": "228",
+    "name": "Altenburg",
+    "nameSince": "27.06.2009"
+  },
+  {
+    "classId": "402",
+    "tz": "229",
+    "name": "Templin",
+    "nameSince": "25.03.2006",
+    "comment": "Dieser Triebzug ist am 1. Mai 2017 als ICE 945 Richtung Berlin bei der Einfahrt in Dortmund Hauptbahnhof mit Steuerwagen und einem Mittelwagen entgleist. Vom 3. Juli 2019 bis 22. Februar 2020 als Langzug mit Reserve-Triebkopf 402 046 im Einsatz. Siehe Abschnitt #ICE-2-Langzug als kurzfristiger ICE-4-Ersatz"
+  },
+  {
+    "classId": "402",
+    "tz": "230",
+    "name": "Delitzsch",
+    "nameSince": "09.10.2004",
+    "comment": "Bei einem Rangierunfall in Berlin-Rummelsburg entgleisten die Wagen 806 008, 806 309, 806 640 sowie der zu dieser Zeit am Triebzug befindliche Reservesteuerwagen 808 045 am 16. Mai 2014 und wurden teilweise stark beschädigt."
+  },
+  {
+    "classId": "402",
+    "tz": "231",
+    "name": "Brandenburg an der Havel",
+    "nameSince": "11.05.2004",
+    "nameUntil": "13.04.2025",
+    "comment": "Der Triebzug wurde im April 2025 ins SSM Leipzig-Engelsdorf abgestellt und anschließend, im August 2025, der Verschrottung zugeführt. Der Steuerwagen sowie das Bordrestaurant wurde mit einem Triebkopf als Kurzzug für Kuppeltests gebildet."
+  },
+  {
+    "classId": "402",
+    "tz": "232",
+    "name": "Frankfurt (Oder)",
+    "nameSince": "18.02.1998",
+    "comment": "Erster Redesign-Zug"
+  },
+  {
+    "classId": "402",
+    "tz": "233",
+    "name": "Ulm",
+    "nameSince": "18.11.2002",
+    "comment": "zwischen Juni 2019 und Februar 2020 nicht gebildet, Einzelfahrzeuge waren als Reserve in Verwendung"
+  },
+  {
+    "classId": "402",
+    "tz": "234",
+    "name": "Minden",
+    "nameSince": "22.06.2003"
+  },
+  {
+    "classId": "402",
+    "tz": "235",
+    "name": "Görlitz",
+    "nameSince": "03.12.2003"
+  },
+  {
+    "classId": "402",
+    "tz": "236",
+    "name": "Jüterbog",
+    "nameSince": "28.04.2007"
+  },
+  {
+    "classId": "402",
+    "tz": "237",
+    "name": "Neustrelitz",
+    "nameSince": "25.10.2008"
+  },
+  {
+    "classId": "402",
+    "tz": "238",
+    "name": "Saarbrücken",
+    "nameSince": "07.07.2005"
+  },
+  {
+    "classId": "402",
+    "tz": "239",
+    "name": "Essen",
+    "nameSince": "20.11.2002",
+    "comment": "Dieser Triebzug wurde zusammen mit Triebzug 219 im März und April 2025 für Mess- und Einstellungsarbeiten der Entrauchungs- und Lüftungsanlage in den neuen Tunneln und im neuen Stuttgart Hbf (tief) eingesetzt."
+  },
+  {
+    "classId": "402",
+    "tz": "240",
+    "name": "Bochum",
+    "nameSince": "09.07.2003"
+  },
+  {
+    "classId": "402",
+    "tz": "241",
+    "name": "Bad Hersfeld",
+    "nameSince": "06.12.2003"
+  },
+  {
+    "classId": "402",
+    "tz": "242",
+    "name": "Quedlinburg",
+    "nameSince": "04.05.2004",
+    "comment": "Triebkopf 402 042-6 war 1998 mit Reserve-Triebkopf 402 046-7 im Eurotrain eingereiht."
+  },
+  {
+    "classId": "402",
+    "tz": "243",
+    "name": "Bautzen/Budyŝin",
+    "nameSince": "02.06.2004"
+  },
+  {
+    "classId": "402",
+    "tz": "244",
+    "name": "Koblenz",
+    "nameSince": "29.03.2003"
+  },
+  {
+    "classId": "403",
+    "tz": "301",
+    "name": "Freiburg im Breisgau",
+    "nameSince": "29.01.2003"
+  },
+  {
+    "classId": "403",
+    "tz": "302",
+    "name": "Hansestadt Lübeck",
+    "nameSince": "20.02.2004",
+    "comment": "Am 24. Oktober 2002 trennten sich die beiden Hälften (hintere Hälfte bestehend aus Triebzug 302) eines mit etwa 200 Fahrgästen besetzten ICE-3-Vollzuges in Göttingen bei einer Geschwindigkeit von rund 50 km/h infolge einer gelösten Kupplung. Infolgedessen wurde vorübergehend ein Doppeltraktionsverbot für ICE 3 angeordnet. Am 25. September 2022 gab es am ICE 622 in Bochum einen Schwelbrand. Der Triebzug war wenige Tage später wieder in Betrieb."
+  },
+  {
+    "classId": "403",
+    "tz": "303",
+    "name": "Dortmund",
+    "nameSince": "28.11.2002"
+  },
+  {
+    "classId": "403",
+    "tz": "304",
+    "name": "München",
+    "nameSince": "10.01.2003",
+    "comment": "Trägt seit dem 9. Juli 2021 anstatt des üblichen roten Zierstreifens einen Zierstreifen in Regenbogenfarben, welcher anlässlich des 10-jährigen Bestehens des LGBTIQ-Mitarbeitendennetzwerks und als Symbol für die Werte der DB angebracht wurde. Der Zugverband wurde im Dezember 2021 in AW Krefeld-Oppum getrennt. Die beiden 1.-Klasse-Wagen 403 022 und 403 104 wurden als Ersatz für die beschädigten Wagen 403 010 und 403 110 in den Zugverband des Triebzuges 310 eingereiht. Der Triebzug wurde mit den 1.-Klasse-Wagen 403 026 sowie 403 110 aufgefüllt und ist wieder mit Regenbogenstreifen unterwegs."
+  },
+  {
+    "classId": "403",
+    "tz": "305",
+    "name": "Baden-Baden",
+    "nameSince": "05.11.2003"
+  },
+  {
+    "classId": "403",
+    "tz": "306",
+    "name": "Nördlingen",
+    "nameSince": "28.06.2021",
+    "comment": "Am Abend des 24. Dezembers 2018 kollidierte ICE-3-Triebzug 306 am ICE-Werk München bei etwa 25 km/h mit ICE-T-Triebzug 1177. Der Endwagen 403 006 wurde beschädigt. In Verbindung mit dem Ausfall des Triebzugs 326 wurde am 14. Januar 2019 ein Ersatzkonzept eingeführt, um ICE-3-Leistungen durch ICE-4-Leistungen zu ersetzen. Am Abend des 13. November 2022 kam es zu einem Schwelbrand am Zug. Der Zug war ursprünglich als ICE 526 nach Dortmund unterwegs. Der zweite unbeschädigte Zugteil konnte seine Fahrt als ICE 1000 fortsetzen."
+  },
+  {
+    "classId": "403",
+    "tz": "307",
+    "name": "Oberhausen",
+    "nameSince": "02.09.2004"
+  },
+  {
+    "classId": "403",
+    "tz": "308",
+    "name": "Murnau am Staffelsee",
+    "nameSince": "27.06.2015",
+    "comment": "Dieser Triebzug wurde anlässlich des Staatsbesuches von Wladimir Putin am 21. Dezember 2004 als Deutschland-Russland-Express beschriftet und für eine Sonderfahrt von Hamburg nach Schleswig eingesetzt."
+  },
+  {
+    "classId": "403",
+    "tz": "309",
+    "name": "Aalen",
+    "nameSince": "21.06.2008"
+  },
+  {
+    "classId": "403",
+    "tz": "310",
+    "name": "Wolfsburg",
+    "nameSince": "23.01.2003",
+    "comment": "Am 9. Juli 2008 entgleiste dieser Triebzug, der als ICE 518 von München nach Dortmund unterwegs war, kurz nach 16 Uhr unmittelbar bei der Ausfahrt aus dem Kölner Hauptbahnhof vor der Hohenzollernbrücke. Als Ursache gilt eine gebrochene Radsatzwelle. Der Zug wurde durch eine Notbremsung zum Stillstand gebracht, nachdem der Radsatz über die Schwellen rollte. Verletzt wurde bei dem Unfall niemand, die Fahrgäste konnten über Türen am Ende der beiden Zugteile auf den Bahnsteig zurückkehren. Nach Angaben von Fahrgästen waren bereits vor Köln in einem Wagen auffällige Geräusche zu hören; nach Abfahrt in Köln sei einer der beiden Triebzüge zwischen zwei Wagen auseinandergerissen. Aufgrund von Gefahr im Verzug ordnete das Eisenbahn-Bundesamt am 10. Juli 2008 per Bescheid an, alle ICE-3-Züge nach Beendigung der Fahrt an diesem Tag außer Betrieb zu nehmen, bei denen die Ultraschall-Prüfung der Radsatzwellen mehr als 60.000 Kilometer zurücklag. Nach einer Flankenfahrt / einem Rangierunfall am 9. November 2021 in München für Reparaturarbeiten außer Betrieb gesetzt. Die beiden beschädigten Wagen 403 010 und 403 110 wurden im Dezember 2021 im Ausbesserungswerk Krefeld durch 403 022 und 403 104 aus Triebzug 304 ersetzt. Endwagen 403 022 ist deshalb fälschlicherweise mit dem Taufnamen „München“ versehen. Endwagen 403 510 trägt weiterhin den korrekten Taufnamen „Wolfsburg“."
+  },
+  {
+    "classId": "403",
+    "tz": "311",
+    "name": "Wiesbaden",
+    "nameSince": "15.12.2002",
+    "comment": "Wurde Ende 2005 mit einer Beklebung für den damals neu eingeführten Telekom-Hotspot im ICE, einem Bestandteil des von der Deutschen Bahn und T-Mobile umgesetzten Projektes Railnet, versehen. Dieser Triebzug diente in der Nacht zum 5. April 2008, zwischen 0:35 und 4:30 Uhr, im Günterscheidtunnel einer groß angelegten Rettungsübung. Im Drei-Jahres-Rhythmus finden derartige Übungen auf der Neubaustrecke statt. Der während der Übung zum Stehen gekommene ICE 3 Eine Zugbegleiterin hilft einem Reisen­den per Ausstieg über eine Notleiter Am 6. September 2015 verkehrte ein Sonderzug ICE 2908 mit Flüchtlingen von München nach Dortmund. Dieser war aus den Triebzügen 311 und 359 gebildet."
+  },
+  {
+    "classId": "403",
+    "tz": "312",
+    "name": "Montabaur",
+    "nameSince": "17.09.2006"
+  },
+  {
+    "classId": "403",
+    "tz": "313",
+    "name": "Treuchtlingen",
+    "nameSince": "22.09.2004"
+  },
+  {
+    "classId": "403",
+    "tz": "314",
+    "name": "Bergisch Gladbach",
+    "nameSince": "02.11.2006",
+    "comment": "Zur Eröffnung des ICE-Instandhaltungswerkes Köln-Nippes wurde Triebzug 314 mit grünen Zierstreifen versehen für das Motto: Grün, grüner, ICE-Werk. Trug seit 12. Mai 2019 eine Sonderfolierung „der kleine ICE“, welche inzwischen wieder entfernt wurde."
+  },
+  {
+    "classId": "403",
+    "tz": "315",
+    "name": "Singen (Hohentwiel)",
+    "nameSince": "24.08.2008"
+  },
+  {
+    "classId": "403",
+    "tz": "316",
+    "name": "Siegburg",
+    "nameSince": "22.07.2003"
+  },
+  {
+    "classId": "403",
+    "tz": "317",
+    "name": "Recklinghausen",
+    "nameSince": "15.07.2003"
+  },
+  {
+    "classId": "403",
+    "tz": "318",
+    "name": "Münster (Westf.)",
+    "nameSince": "28.07.2000",
+    "comment": "Am 24. August 2011 fuhr dieser Triebzug auf der Fahrt als ICE 1223 von Dortmund in Richtung Kassel mit 160 km/h im westfälischen Lippstadt in einen Traktor, der auf dem Bahnübergang stand. An Bord war auch SPD-Politiker Franz Müntefering."
+  },
+  {
+    "classId": "403",
+    "tz": "319",
+    "name": "Duisburg",
+    "nameSince": "08.10.2003"
+  },
+  {
+    "classId": "403",
+    "tz": "320",
+    "name": "Weil am Rhein",
+    "nameSince": "29.05.2016"
+  },
+  {
+    "classId": "403",
+    "tz": "321",
+    "name": "Krefeld",
+    "nameSince": "21.11.2003",
+    "comment": "Am 1. April 2004 entgleiste dieser Triebzug als ICE 600 bei Istein, nachdem er mit einem Traktor zusammengeprallt war, der auf die Gleise gestürzt war. Der Traktorfahrer, der sich noch aus dem herabstürzenden Traktor befreien konnte, wurde schwer verletzt. Im Zug wurden zwei Personen leicht verletzt. Der Triebfahrzeugführer des ICE konnte kurz vor dem Zusammenprall aus einer Geschwindigkeit von rund 80 km/h eine Schnellbremsung einleiten, die den Zug nach rund 250 m zum Stehen brachte. Der entgegenkommende ICE 271 (ICE 1) streifte den verunglückten Zug und beschädigte eine Seitenscheibe des ICE 3. Der Schaden an dem entgegenkommenden Zug war zunächst nicht bemerkt worden. Weitere Personen kamen nicht zu Schaden. Der Triebzug 321 wurde daraufhin aufgelöst und mehrere seiner Wagen auf andere Triebzüge verteilt. Später wurde er mit Wagen aus anderen Garnituren wieder zusammengesetzt."
+  },
+  {
+    "classId": "403",
+    "tz": "322",
+    "name": "Solingen",
+    "nameSince": "02.07.2003",
+    "comment": "Am 8. Dezember 2015 kam es in Triebzug 322 zu einem Kabelbrand im Dachbereich, nachdem ein Vogel den Stromabnehmer und die Oberleitung beschädigt hatte. Der Triebzug war als ICE 622 unterwegs und blieb kurz vor dem planmäßigen Halt am Frankfurter Flughafen liegen. Die Feuerwehr rückte mit etwa 40 Mann an und hatte den Brand nach kurzer Zeit unter Kontrolle. Die etwa 450 Fahrgäste wurden nicht verletzt und konnten nach 2 Stunden evakuiert werden."
+  },
+  {
+    "classId": "403",
+    "tz": "323",
+    "name": "Schaffhausen",
+    "nameSince": "10.07.2008",
+    "comment": "Am 17. April 2010 kollidierte die verlorene Wagentür des Triebzuges 325 im Bereich des Dickheck-Tunnels mit dem Bordbistro des Triebzuges 323, der sich gerade auf der Fahrt als ICE 612 befand. Sechs Menschen wurden in diesem Triebzug durch Glassplitter verletzt oder standen unter Schock. Triebzug 323 ist der Probetriebzug für das ICE-3-Redesign und für ETCS-Ausrüstung."
+  },
+  {
+    "classId": "403",
+    "tz": "324",
+    "name": "Fürth",
+    "nameSince": "15.09.2007"
+  },
+  {
+    "classId": "403",
+    "tz": "325",
+    "name": "Ravensburg",
+    "nameSince": "15.04.2004",
+    "comment": "Am 17. April 2010 um 11:39 Uhr verlor dieser Triebzug auf der Fahrt als ICE 505 auf der Schnellfahrstrecke Köln–Rhein/Main, im Bereich des Dickheck-Tunnels, die linke Tür am Wagenübergang von Wagen 26 auf Wagen 27, die anschließend in das Bordbistro des entgegenkommenden ICE 612 prallte. Als Ursache gilt eine falsch eingestellte Stellmutter an einer Verriegelungsvorrichtung. Zweiwöchige Prüfungen an den Türen der ersten Bauserie der ICE-3-Flotte hätten keine weiteren Auffälligkeiten ergeben. Das Eisenbahn-Bundesamt wies die Deutsche Bahn an, die Türverriegelungen im Rahmen der regelmäßigen Wartung zu überprüfen. Darüber hinaus wurde die Türkonstruktion verändert."
+  },
+  {
+    "classId": "403",
+    "tz": "326",
+    "name": "Neunkirchen",
+    "nameSince": "10.11.2007",
+    "comment": "Am Morgen des 12. Oktober 2018 brach auf der Schnellfahrstrecke Köln–Rhein/Main bei Dierdorf im Trafowagen 403 626 Feuer aus. Das Ereignis wurde wahrscheinlich durch den Bruch einer Zugstange im Haupttransformator ausgelöst. Die ICE-3-Doppeltraktion war als ICE 511 auf dem Weg nach München. Der Wagen 403 626 brannte völlig aus, der Endwagen 403 526 geriet ebenfalls in Brand. Der ICE wurde auf offener Strecke gestoppt und die 510 Passagiere wurden aus dem Zug evakuiert. Fünf Personen wurden leicht verletzt. Der vordere Zug der Doppeltraktion blieb unbeschädigt. Tz 326 hingegen wurde anschließend abgestellt. Es gilt als erwiesen, dass Trafoöl ausgetreten war und sich entzündet hatte. Die Deutsche Bahn kündigte an, Trafos und Nebenaggregate aller ICE 3 zu prüfen und Trafos auch künftig engmaschiger zu kontrollieren. Bei vier ICE 3 wurden Verunreinigungen des Trafoöls festgestellt, infolge daraus resultierender Maßnahmen fehlten bis zu sechs Triebzüge pro Tag. Per Weisung vom 20. Dezember 2018 dürfen ab 1. Januar 2019 ICE-3-Triebzüge, die noch keine spezielle Überprüfung durchlaufen haben, keine langen Tunnel mehr befahren."
+  },
+  {
+    "classId": "403",
+    "tz": "327",
+    "name": "Siegen",
+    "nameSince": "18.09.2011"
+  },
+  {
+    "classId": "403",
+    "tz": "328",
+    "name": "Aachen",
+    "nameSince": "03.07.2003"
+  },
+  {
+    "classId": "403",
+    "tz": "329",
+    "name": "Tz 329",
+    "nameSince": "21.03.2001"
+  },
+  {
+    "classId": "403",
+    "tz": "330",
+    "name": "Göttingen",
+    "nameSince": "22.01.2003"
+  },
+  {
+    "classId": "403",
+    "tz": "331",
+    "name": "Westerland/Sylt",
+    "nameSince": "20.02.2004"
+  },
+  {
+    "classId": "403",
+    "tz": "332",
+    "name": "Augsburg",
+    "nameSince": "21.11.2002"
+  },
+  {
+    "classId": "403",
+    "tz": "333",
+    "name": "Esslingen am Neckar",
+    "nameSince": "06.06.2009",
+    "nameUntil": "17.05.2017"
+  },
+  {
+    "classId": "403",
+    "tz": "333",
+    "name": "Goslar",
+    "nameSince": "09.06.2017"
+  },
+  {
+    "classId": "403",
+    "tz": "334",
+    "name": "Offenburg",
+    "nameSince": "22.11.2003"
+  },
+  {
+    "classId": "403",
+    "tz": "335",
+    "name": "Konstanz",
+    "nameSince": "19.04.2008"
+  },
+  {
+    "classId": "403",
+    "tz": "336",
+    "name": "Ingolstadt",
+    "nameSince": "27.11.2003",
+    "comment": "Die Wagen der 1. Klasse wurden im März 2015 versuchsweise mit neuartigen Sitzen ausgestattet. Sie enthalten unter anderem eine Reservierungsanzeige im Bereich der Kopfstützen."
+  },
+  {
+    "classId": "403",
+    "tz": "337",
+    "name": "Stuttgart",
+    "nameSince": "19.11.2002"
+  },
+  {
+    "classId": "403",
+    "tz": "351",
+    "name": "Herford",
+    "nameSince": "17.05.2006",
+    "nameUntil": "21.05.2021",
+    "comment": "Am 21. Dezember 2021 brach im Bereich des Bahnhofs Mannheim-Waldhof ein Brand im Triebzug aus. Zu diesem Zeitpunkt war das Fahrzeug der hintere Teil der Doppeltraktion von ICE 202 auf dem Weg von Basel nach Köln, der Brandherd befand sich im Übergangsbereich zwischen dem zu diesem Zeitpunkt letzten und vorletzten Wagen des Triebzugs. Dieser wurde umgehend evakuiert, zwei Personen wurden leicht verletzt. Die Fahrgäste konnten ihre Fahrt nach etwa zwei Stunden im unbeschädigt gebliebenen vorderen Triebzug fortsetzen. Der Zug stand im Jahr 2022 nach einem Brandschaden abgestellt und vier seiner acht Wagen wurden als Ersatz in den Triebzug 354 eingereiht."
+  },
+  {
+    "classId": "403",
+    "tz": "352",
+    "name": "Mönchengladbach",
+    "nameSince": "29.03.2011"
+  },
+  {
+    "classId": "403",
+    "tz": "353",
+    "name": "Neu-Ulm",
+    "nameSince": "06.06.2015"
+  },
+  {
+    "classId": "403",
+    "tz": "354",
+    "name": "Mittenwald",
+    "nameSince": "26.09.2015",
+    "comment": "Am 8. September 2022 entgleiste der Triebzug bei einer Rangierfahrt in der Abstellgruppe des Karlsruher Hbf. Es entstand dabei erheblicher Sachschaden am Fahrzeug, Personen wurden nicht verletzt. Die beschädigte Hälfte des Triebzuges wurde mit abgestellten Wagen aus Triebzug 351 getauscht."
+  },
+  {
+    "classId": "403",
+    "tz": "355",
+    "name": "Tuttlingen",
+    "nameSince": "27.07.2015"
+  },
+  {
+    "classId": "403",
+    "tz": "356",
+    "name": "Tz 356",
+    "nameSince": "13.01.2006",
+    "comment": "Am 8. November 2017 kollidierte eine Rangierfahrt in München Hbf mit diesem Triebzug und zerstörte eine Türe an Wagen 403 256. Der Triebzug ist seit dem 08. Dezember 2018 wieder im Einsatz."
+  },
+  {
+    "classId": "403",
+    "tz": "357",
+    "name": "Esslingen am Neckar",
+    "nameSince": "17.05.2017"
+  },
+  {
+    "classId": "403",
+    "tz": "358",
+    "name": "St. Ingbert",
+    "nameSince": "10.05.2008"
+  },
+  {
+    "classId": "403",
+    "tz": "359",
+    "name": "Leverkusen",
+    "nameSince": "20.06.2009",
+    "comment": "Am 6. September 2015 verkehrte ein Sonderzug ICE 2908 mit Flüchtlingen von München nach Dortmund. Er war aus den Triebzügen 311 und 359 gebildet."
+  },
+  {
+    "classId": "403",
+    "tz": "360",
+    "name": "Linz am Rhein",
+    "nameSince": "18.06.2011"
+  },
+  {
+    "classId": "403",
+    "tz": "361",
+    "name": "Celle",
+    "nameSince": "29.11.2008"
+  },
+  {
+    "classId": "403",
+    "tz": "362",
+    "name": "Schwerte",
+    "nameSince": "24.02.2006"
+  },
+  {
+    "classId": "403",
+    "tz": "363",
+    "name": "Weilheim i. OB",
+    "nameSince": "26.06.2017"
+  },
+  {
+    "classId": "407",
+    "tz": "701",
+    "name": "Tz 701",
+    "nameSince": "20.06.2016"
+  },
+  {
+    "classId": "407",
+    "tz": "702",
+    "name": "Tz 702",
+    "nameSince": "14.02.2011"
+  },
+  {
+    "classId": "407",
+    "tz": "703",
+    "name": "Tz 703",
+    "nameSince": "14.12.2014"
+  },
+  {
+    "classId": "407",
+    "tz": "704",
+    "name": "Tz 704",
+    "nameSince": "22.09.2011"
+  },
+  {
+    "classId": "407",
+    "tz": "705",
+    "name": "Tz 705",
+    "nameSince": "01.07.2011"
+  },
+  {
+    "classId": "407",
+    "tz": "706",
+    "name": "Tz 706",
+    "nameSince": "01.08.2011"
+  },
+  {
+    "classId": "407",
+    "tz": "707",
+    "name": "Tz 707",
+    "nameSince": ""
+  },
+  {
+    "classId": "407",
+    "tz": "708",
+    "name": "Tz 708",
+    "nameSince": "19.11.2011"
+  },
+  {
+    "classId": "407",
+    "tz": "709",
+    "name": "Tz 709",
+    "nameSince": "21.11.2011"
+  },
+  {
+    "classId": "407",
+    "tz": "710",
+    "name": "Ansbach",
+    "nameSince": "05.12.2022"
+  },
+  {
+    "classId": "407",
+    "tz": "711",
+    "name": "Tz 711",
+    "nameSince": "02.01.2012"
+  },
+  {
+    "classId": "407",
+    "tz": "712",
+    "name": "Dillingen a. d. Donau",
+    "nameSince": "02.12.2019"
+  },
+  {
+    "classId": "407",
+    "tz": "713",
+    "name": "Tz 713",
+    "nameSince": "12.05.2012"
+  },
+  {
+    "classId": "407",
+    "tz": "714",
+    "name": "Tz 714",
+    "nameSince": "02.06.2012"
+  },
+  {
+    "classId": "407",
+    "tz": "715",
+    "name": "Tz 715",
+    "nameSince": "02.07.2012"
+  },
+  {
+    "classId": "407",
+    "tz": "716",
+    "name": "Tz 716",
+    "nameSince": "30.07.2012"
+  },
+  {
+    "classId": "407",
+    "tz": "717",
+    "name": "Paris",
+    "nameSince": "31.05.2017"
+  },
+  {
+    "classId": "605",
+    "tz": "5501",
+    "name": "Tz 5501",
+    "nameSince": "22.04.2001",
+    "nameUntil": "01.01.2011",
+    "comment": "Wagen 605 101 wurde in Tz 5516 eingestellt."
+  },
+  {
+    "classId": "605",
+    "tz": "5502",
+    "name": "Tz 5502",
+    "nameSince": "16.05.2001",
+    "nameUntil": "28.11.2014",
+    "comment": "Am 13. Januar 2000 erreichte Triebzug der 5502 bei einer Testfahrt zwischen Göttingen und Hannover eine Höchstgeschwindigkeit von 222 km/h und löste damit die Bestmarke für einen Verbrennungstriebwagen von der DB-Baureihe 602 aus dem Jahre 1975 mit 217 km/h ab. Der Triebzug 5502 wurde zum 28. November 2014 offiziell ausgemustert. Seine Komponenten sollten für die Wiederinbetriebnahme der Triebzüge 5512 und 5513 verwendet werden."
+  },
+  {
+    "classId": "605",
+    "tz": "5503",
+    "name": "Tz 5503",
+    "nameSince": "07.05.2001",
+    "nameUntil": "23.12.2016",
+    "comment": "Am 2. Dezember 2002 brach im Mittelwagen 605 203 eine Radsatzwelle, als dieser Triebzug als ICE 1799 bei Gutenfürst unterwegs war. Bei der nachfolgenden Entgleisung bei 130 km/h wurde niemand verletzt. In der Folge der Entgleisung wurde die Neigetechnik bei allen ICE-TD abgeschaltet. Zwischen 24. Juli 2003 und 13. August 2003 wurde seitens des EBA die Betriebserlaubnis zeitweise sogar ganz entzogen. Erst ein Achstausch führte zu einer Neuzulassung mit Neigetechnik am 1. Dezember 2003."
+  },
+  {
+    "classId": "605",
+    "tz": "5504",
+    "name": "Tz 5504",
+    "nameSince": "22.04.2001",
+    "nameUntil": "23.11.2016"
+  },
+  {
+    "classId": "605",
+    "tz": "5505",
+    "name": "Tz 5505",
+    "nameSince": "01.06.2001",
+    "nameUntil": "24.10.2016",
+    "comment": "Wurde als Ersatzteilspender für advanced TrainLab genutzt"
+  },
+  {
+    "classId": "605",
+    "tz": "5506",
+    "name": "Tz 5506",
+    "nameSince": "05.05.2001",
+    "nameUntil": "23.12.2016",
+    "comment": "Fuhr ab dem 18. März 2014 in den blau-grauen Hausfarben der DSB."
+  },
+  {
+    "classId": "605",
+    "tz": "5507",
+    "name": "Tz 5507",
+    "nameSince": "01.06.2001",
+    "nameUntil": "13.04.2017",
+    "comment": "Messfahrten durch DB Systemtechnik für EBA-Serienzulassung („NT Ausbau BR 605“). Im Januar 2013 bei Testfahrten mit einem Messachsenschaden in Haste liegen geblieben. Eine Zulassung konnte nicht erreicht werden."
+  },
+  {
+    "classId": "605",
+    "tz": "5508",
+    "name": "Tz 5508",
+    "nameSince": "07.06.2001",
+    "nameUntil": "04.02.2016"
+  },
+  {
+    "classId": "605",
+    "tz": "5509",
+    "name": "Tz 5509",
+    "nameSince": "16.06.2001",
+    "nameUntil": "31.12.2002",
+    "comment": "Im September 2001 stürzte der Wagen 605 009 im Bahnbetriebswerk Hof infolge eines Defekts an einer Hubbockanlage von einer Hebebühne. Der benachbarte Mittelwagen 605 109 wurde leicht beschädigt. Der schwer beschädigte Endwagen wurde 2002 ins Bombardier-Werk Ammendorf gebracht und zur Erarbeitung eines Reparaturangebots bis auf den Rohbau zerlegt. Nachdem es nicht zu einer Wiederaufarbeitung gekommen war, wurden beide Fahrzeuge zum 31. Dezember 2002 ausgemustert und die Überreste als Ersatzteile im Werk Chemnitz eingelagert. Die unbeschädigt gebliebenen Wagen 605 209 und 509 wurden bis Frühjahr 2004 auf Straßen-Tiefladern nach Chemnitz transportiert. Im Juli 2011 wurde der Zug, ebenfalls über die Straße, mittels Schwertransport von Chemnitz nach Hagen transportiert und nunmehr dort eingelagert. Im Juni 2016 wurden die Mittelwagen 605 209 und 509 in Hagen zerlegt."
+  },
+  {
+    "classId": "605",
+    "tz": "5510",
+    "name": "Tz 5510",
+    "nameSince": "22.04.2001",
+    "nameUntil": "23.12.2016",
+    "comment": "Der Triebzug 5510 wurde am 3. Januar 2020 vom Stillstandsmanagement wieder an DB Fernverkehr übergeben. Eine Aufarbeitung ist nicht geplant."
+  },
+  {
+    "classId": "605",
+    "tz": "5511",
+    "name": "Tz 5511",
+    "nameSince": "22.04.2001",
+    "nameUntil": "23.12.2016"
+  },
+  {
+    "classId": "605",
+    "tz": "5512",
+    "name": "Tz 5512",
+    "nameSince": "22.04.2001",
+    "nameUntil": "07.07.2010"
+  },
+  {
+    "classId": "605",
+    "tz": "5513",
+    "name": "Tz 5513",
+    "nameSince": "03.05.2001",
+    "nameUntil": "04.02.2016"
+  },
+  {
+    "classId": "605",
+    "tz": "5514",
+    "name": "Tz 5514",
+    "nameSince": "22.04.2001",
+    "nameUntil": "05.10.2017"
+  },
+  {
+    "classId": "605",
+    "tz": "5515",
+    "name": "Tz 5515",
+    "nameSince": "31.05.2001",
+    "nameUntil": "04.02.2016"
+  },
+  {
+    "classId": "605",
+    "tz": "5516",
+    "name": "Tz 5516",
+    "nameSince": "22.04.2001",
+    "nameUntil": "23.12.2016"
+  },
+  {
+    "classId": "605",
+    "tz": "5517",
+    "name": "Tz 5517",
+    "nameSince": "03.05.2001",
+    "nameUntil": "12.11.2017",
+    "comment": "Am 8. November 2017 fuhr Triebzug 5517 als Sonderfahrt (ICE 2599 und ICE 2588) zwischen Hamburg und Puttgarden. Das war der offiziell letzte Einsatz im Personenverkehr dieser Baureihe im Netz der DB. Am 11. Januar 2018 fuhr der Zug eigenständig nach Mukran. Ab November/Dezember 2018: Einsatz als Erprobungsträger „advanced TrainLab“. Unfallte bei einer Fahrt gegen einen Prellbock in Berlin-Nikolassee am 18. November 2020."
+  },
+  {
+    "classId": "605",
+    "tz": "5518",
+    "name": "Tz 5518",
+    "nameSince": "22.04.2001",
+    "nameUntil": "23.12.2016",
+    "comment": "Am 1. Dezember 2010 prallte auf der Bahnstrecke Lübeck–Puttgarden bei Heringsdorf (Ostholstein) Triebzug 5518 auf einem Bahnübergang mit einem Lkw zusammen. Der Lkw-Fahrer starb, der Triebfahrzeugführer wurde verletzt; die etwa 70 Fahrgäste blieben unverletzt. Wurde am 25. August 2021 in Mukran abgeholt und der Verschrottung in Opladen zugeführt."
+  },
+  {
+    "classId": "605",
+    "tz": "5519",
+    "name": "Tz 5519",
+    "nameSince": "22.04.2001",
+    "nameUntil": "05.10.2017"
+  },
+  {
+    "classId": "605",
+    "tz": "5520",
+    "name": "Tz 5520",
+    "nameSince": "06.06.2001",
+    "nameUntil": "04.02.2016"
+  },
+  {
+    "classId": "406",
+    "tz": "4601",
+    "name": "Europa/Europe",
+    "nameSince": "22.05.2019",
+    "nameUntil": "16.04.2025",
+    "comment": "seit 23. Mai 2019 mit blauem anstelle eines roten Zierstreifens Am 12. April 2025 fand eine offizielle Abschiedsfahrt für geladene Gäste und Eisenbahnfans von Hannover nach Amsterdam und von Amsterdam nach Frankfurt am Main über Köln statt. Die ICE mit den Nummern 13406 und 25 wurden aus den Triebzügen 4601 „Europa“ und 4651 „Amsterdam“ gebildet und mit einer mehrsprachigen Sonderbeklebung versehen. Dazu wurden noch die Landesflaggen aller Länder angebracht, die der ICE International in den 25 Jahren angefahren hat."
+  },
+  {
+    "classId": "406",
+    "tz": "4602",
+    "name": "Euregio Maas-Rhein",
+    "nameSince": "17.02.2020",
+    "nameUntil": "16.04.2025"
+  },
+  {
+    "classId": "406",
+    "tz": "4603",
+    "name": "Mannheim",
+    "nameSince": "24.02.2003",
+    "nameUntil": "15.04.2025",
+    "comment": "Dieser Triebzug erreichte am 3. September 2001 bei einer Zulassungsfahrt zwischen Rathenow und Wolfsburg eine Höchstgeschwindigkeit von 368,4 km/h. Das ist die höchste Geschwindigkeit, die ein nicht modifizierter Serienzug in Deutschland jemals erreicht hat."
+  },
+  {
+    "classId": "406",
+    "tz": "4604",
+    "name": "Brussel/Bruxelles",
+    "nameSince": "28.11.2016",
+    "nameUntil": "13.04.2025",
+    "comment": "Am 10. November 2022 musste der Triebzug 4604 in Köln/Bonn Flughafen als ICE 814 von Frankfurt(Main)Hbf nach Köln Messe/Deutz seine Fahrt vorzeitig beenden, da es im Wagen 406 104 zu einem Brand im Schaltschrank gekommen ist. Der betroffene Wagen wurde erheblich beschädigt, auch der Endwagen erster Klasse wurde durch den Rauch beschädigt. Bei diesem Zwischenfall gab es nach Presseangaben eine Person mit leichter Rauchgasvergiftung."
+  },
+  {
+    "classId": "406",
+    "tz": "4605",
+    "name": "Würzburg",
+    "nameSince": "20.11.2002",
+    "nameUntil": "17.07.2006"
+  },
+  {
+    "classId": "406",
+    "tz": "4605",
+    "name": "Tz 4605",
+    "nameSince": "17.07.2006",
+    "nameUntil": "15.04.2025"
+  },
+  {
+    "classId": "406",
+    "tz": "4680",
+    "name": "Würzburg",
+    "nameSince": "17.07.2006",
+    "nameUntil": "15.04.2025",
+    "comment": "Premierenfahrt am 25. Mai 2007 mit geladenen Gästen über die LGV Est européenne nach Paris"
+  },
+  {
+    "classId": "406",
+    "tz": "4606",
+    "name": "Limburg an der Lahn",
+    "nameSince": "24.12.2002",
+    "nameUntil": "13.08.2024"
+  },
+  {
+    "classId": "406",
+    "tz": "4683",
+    "name": "Limburg an der Lahn",
+    "nameSince": "08.11.2006",
+    "nameUntil": "13.08.2024",
+    "comment": "Stand zwischen September 2024 und April 2025 im SSM Leipzig-Engelsdorf und wurde am 17. April 2025 zur Verschrottung nach Espenhain überführt."
+  },
+  {
+    "classId": "406",
+    "tz": "4607",
+    "name": "Hannover",
+    "nameSince": "08.01.2003",
+    "nameUntil": "14.03.2025",
+    "comment": "Dieser Triebzug eröffnete am 25. Juli 2002 zusammen mit dem Triebzug 318 der Reihe 403 die Schnellfahrstrecke Köln–Rhein/Main. Der Triebzug ist abgestellt in der Nähe vom ICE Werk Frankfurt Griesheim."
+  },
+  {
+    "classId": "406",
+    "tz": "4608",
+    "name": "Tz 4608",
+    "nameSince": "03.05.2001",
+    "nameUntil": "17.08.2010",
+    "comment": "Erster ICE-Triebzug, welcher im Rahmen von Zulassungsfahrten in Belgien und Frankreich am 7. Juli 2003 die Stadt Paris erreichte. In einem symbolischen Akt wurde er dabei mechanisch mit dem TGV-Triebzug 509 gekuppelt, um das Zusammenwachsen des europäischen Hochgeschwindigkeitsverkehrs zu verdeutlichen."
+  },
+  {
+    "classId": "406",
+    "tz": "4681",
+    "name": "Tz 4681",
+    "nameSince": "18.07.2006",
+    "nameUntil": "17.08.2010",
+    "comment": "Am 17. August 2010 prallte der Triebzug 4681 als ICE 9556 (Frankfurt/Main–Paris) auf der Bahnstrecke Ludwigshafen–Saarbrücken in Lambrecht bei Neustadt an der Weinstraße mit einem zuvor ins Gleis gestürzten Müllwagen zusammen. Die örtlich zulässige Geschwindigkeit beträgt 100 km/h, die Kollision erfolgte mit etwa 81 km/h. Die beiden vorderen Wagen des Triebzuges entgleisten und wurden beschädigt; der führende Endwagen wurde seitlich auf ganzer Länge aufgeschlitzt. 18 Menschen wurden verletzt. Eine überschlägige Schätzung ging von einem Schaden von 1,5 Millionen Euro aus. Die Wagen 406 081 und 181 wurden verschrottet. Das Landgericht Frankenthal schlug Anfang 2013 einen Vergleich vor, wonach die Versicherung des Entsorgungsunternehmens die Hälfte des 12-Millionen-Euro-Schadens übernimmt. Die Haftpflichtversicherung der Gemeinde Lindenberg soll 2,8 Millionen Euro tragen, den Rest die Haftpflichtversicherung der Deutschen Bahn. Die Anwälte der drei Versicherungen stimmten dem Vergleich zu. Die Straße wurde nach dem Unfall umgebaut. Der schwer beschädigte Triebzug wurde durch einen Triebzug der Baureihe 407 ersetzt. Der am 17. August 2010 verunglückte ICE 3MF 4681 am Morgen des 10. Juni 2007 in Frankfurt (Main) Hauptbahnhof vor der ersten fahrplanmäßigen Fahrt eines ICE nach Paris"
+  },
+  {
+    "classId": "406",
+    "tz": "4609",
+    "name": "Köln",
+    "nameSince": "10.12.2002",
+    "nameUntil": "13.04.2006"
+  },
+  {
+    "classId": "406",
+    "tz": "4682",
+    "name": "Köln",
+    "nameSince": "13.04.2006",
+    "nameUntil": "16.04.2025",
+    "comment": "Am 16. Mai 2008 geriet ein Wagen des ICE 3MF, der als ICE 9554 auf der LGV Est européenne fuhr, in der Nähe von Paris in Brand. Die rund 300 Fahrgäste mussten den Zug auf offener Strecke verlassen und erreichten Paris mit einer Verspätung von rund drei Stunden mit einem TGV-Ersatzzug. Die Strecke war infolge des Brandes ab 16:40 Uhr für zwei Stunden gesperrt. Als Ursache gilt ein Schaden an einem Fahrmotorlager. Der betroffene Triebzug 4682 (Köln) ging erst Ende Dezember 2008 wieder in Betrieb."
+  },
+  {
+    "classId": "406",
+    "tz": "4610",
+    "name": "Frankfurt am Main",
+    "nameSince": "04.11.2002",
+    "nameUntil": "16.04.2025",
+    "comment": "Dieser Triebzug wurde 2024 für Begegnungsversuche mit Güterzügen eingesetzt. Diese waren notwendig, um zu prüfen, ob die Höchstgeschwindigkeit in den Tunneln auf den Schnellfahrstrecken Hannover–Würzburg und Mannheim–Stuttgart auf 280 und zukünftig auf 300 km/h angehoben werden können."
+  },
+  {
+    "classId": "406",
+    "tz": "4611",
+    "name": "Düsseldorf",
+    "nameSince": "09.12.2002",
+    "nameUntil": "16.04.2025"
+  },
+  {
+    "classId": "406",
+    "tz": "4612",
+    "name": "Montabaur",
+    "nameSince": "09.12.2002",
+    "nameUntil": "17.09.2006"
+  },
+  {
+    "classId": "406",
+    "tz": "4612",
+    "name": "Forbach-Lorraine",
+    "nameSince": "17.09.2006",
+    "nameUntil": "20.01.2007"
+  },
+  {
+    "classId": "406",
+    "tz": "4612",
+    "name": "Tz 4612",
+    "nameSince": "20.01.2007",
+    "nameUntil": "02.03.2025"
+  },
+  {
+    "classId": "406",
+    "tz": "4684",
+    "name": "Forbach-Lorraine",
+    "nameSince": "20.01.2007",
+    "nameUntil": "02.03.2025",
+    "comment": "Am 8. Juli 2008, gegen 16 Uhr, prallte der ICE 9555 auf der Fahrt von Paris nach Frankfurt, im Bereich des Haltepunktes Kennelgarten (bei Kaiserslautern) bei rund 100 km/h mit einem Baustellenfahrzeug zusammen, das sich im Schotter festgefahren hatte. Sechs Wagen des Triebzuges 4684 wurden beschädigt. Von den rund 400 Fahrgästen wurde niemand verletzt. Nach einer zweistündigen Streckensperrung konnte der beschädigte Zug aus eigener Kraft bis Kaiserslautern weiterfahren. Nach diesem Unfall wurde kurzzeitig überlegt, aus den Triebzügen 4682 und 4684 eine einsatzfähige Garnitur zusammenzustellen. Der Triebzug wurde am 17. April 2025 ins SSM Mukran gefahren."
+  },
+  {
+    "classId": "406",
+    "tz": "4613",
+    "name": "Schwäbisch Hall",
+    "nameSince": "26.05.2004",
+    "nameUntil": "28.04.2007"
+  },
+  {
+    "classId": "406",
+    "tz": "4613",
+    "name": "Tz 4613",
+    "nameSince": "28.04.2007",
+    "nameUntil": "13.03.2024"
+  },
+  {
+    "classId": "406",
+    "tz": "4685",
+    "name": "Schwäbisch Hall",
+    "nameSince": "28.04.2007",
+    "nameUntil": "13.03.2024",
+    "comment": "Fuhr im Oktober 2010 als erster ICE-Triebzug durch den Eurotunnel nach London. Nach einem Kabelbrand im Bereich eines Führerstandes am 13. März 2024 ist dieser Triebzug abgestellt. Von Juni bis Oktober 2024 war der Triebzug ohne den Wagen 406 785 im Stillstandsmanagement (SSM) in Leipzig-Engelsdorf abgestellt, der Wagen 406 785 wurde als Ersatz in Triebzug 4683 eingereiht. Im Oktober 2024 wurden die Reste von diesem Triebzug verschrottet."
+  },
+  {
+    "classId": "406",
+    "tz": "4651",
+    "name": "Amsterdam",
+    "nameSince": "06.10.2003",
+    "nameUntil": "15.04.2025",
+    "comment": "Eigentum NS International Am 12. April 2025 fand eine offizielle Abschiedsfahrt für geladene Gäste und Eisenbahnfans von Hannover nach Amsterdam und von Amsterdam nach Frankfurt am Main über Köln statt. Die ICE mit den Nummern 13406 und 25 wurden aus den Triebzügen 4601 „Europa“ und 4651 „Amsterdam“ gebildet und mit einer mehrsprachigen Sonderbeklebung versehen. Dazu wurden noch die Landesflaggen aller Länder angebracht, die der ICE International in den 25 Jahren angefahren hat."
+  },
+  {
+    "classId": "406",
+    "tz": "4652",
+    "name": "Arnhem",
+    "nameSince": "20.03.2003",
+    "nameUntil": "23.03.2025",
+    "comment": "Eigentum NS International"
+  },
+  {
+    "classId": "406",
+    "tz": "4653",
+    "name": "Tz 4653",
+    "nameSince": "07.06.2000",
+    "nameUntil": "15.04.2025",
+    "comment": "Eigentum NS International"
+  },
+  {
+    "classId": "406",
+    "tz": "4654",
+    "name": "Tz 4654",
+    "nameSince": "23.10.2000",
+    "nameUntil": "30.08.2023",
+    "comment": "Am 11. Januar 2011 fuhr in den Niederlanden zwischen Arnhem und Emmerich dem Triebzug 4654 (eingesetzt als ICE 123) ein Güterzug in die Flanke, woraufhin der führende Wagen des ICE entgleiste und der zweite Wagen ebenfalls beschädigt wurde. Unglücksursache war der Diebstahl von Kupferkabeln. Seit 1. Januar 2012 gehört er buchmäßig der DB Fernverkehr AG und nicht mehr NS International. Wagen 406 054 und 406 154 als Ersatz nach einem Brand in Triebzug 4604 eingereiht."
+  },
+  {
+    "classId": "412",
+    "tz": "9001",
+    "name": "Tz 9001",
+    "nameSince": "18.04.2015",
+    "comment": "Vorserieneinheit, zwölfteilig"
+  },
+  {
+    "classId": "412",
+    "tz": "9002",
+    "name": "Tz 9002",
+    "nameSince": "22.05.2015",
+    "comment": "Vorserieneinheit, zwölfteilig"
+  },
+  {
+    "classId": "412",
+    "tz": "9003",
+    "name": "Tz 9003",
+    "nameSince": "15.06.2015",
+    "comment": "Vorserieneinheit, zwölfteilig"
+  },
+  {
+    "classId": "412",
+    "tz": "9004",
+    "name": "Tz 9004",
+    "nameSince": "23.09.2015",
+    "comment": "Vorserieneinheit, zwölfteilig – war 2016 und 2017 zur Erprobung neuartiger Drehgestelle mit anderen Schwingungsdämpfern (in blauer Lackierung) unterwegs"
+  },
+  {
+    "classId": "412",
+    "tz": "9005",
+    "name": "Tz 9005",
+    "nameSince": "20.10.2015",
+    "comment": "Vorserieneinheit, zwölfteilig"
+  },
+  {
+    "classId": "412",
+    "tz": "9006",
+    "name": "Martin Luther",
+    "nameSince": "07.11.2016",
+    "comment": "Vorserieneinheit, zwölfteilig erhielt als erster Triebzug eine Hauptuntersuchung (im Testzentrum Wegberg-Wildenrath), zum 2. Oktober 2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9007",
+    "name": "Tz 9007",
+    "nameSince": "01.02.2016",
+    "comment": "Vorserieneinheit, zwölfteilig – war im März und April 2018 für Zulassungsfahrten in der Schweiz unterwegs"
+  },
+  {
+    "classId": "412",
+    "tz": "9008",
+    "name": "Tz 9008",
+    "nameSince": "14.07.2017",
+    "comment": "In den letzten beiden Mai-Wochen 2021 für Zulassungsfahrten in Österreich unterwegs. Fuhr am 20. Oktober 2023 als ICE 594 (München – Hamburg) in Stuttgart Hbf gegen einen Prellbock. Rückkehr in den Dienst am 24.10.23 als ICE 596."
+  },
+  {
+    "classId": "412",
+    "tz": "9009",
+    "name": "Cottbus/Chóśebuz",
+    "nameSince": "06.06.2025"
+  },
+  {
+    "classId": "412",
+    "tz": "9010",
+    "name": "Tz 9010",
+    "nameSince": "05.09.2017"
+  },
+  {
+    "classId": "412",
+    "tz": "9011",
+    "name": "Tz 9011",
+    "nameSince": "18.10.2017"
+  },
+  {
+    "classId": "412",
+    "tz": "9012",
+    "name": "Tz 9012",
+    "nameSince": "16.10.2017",
+    "comment": "Dieser Triebzug war von Februar bis Mai 2018 für eine Gewinnspielaktion mit grünem Zierstreifen versehen."
+  },
+  {
+    "classId": "412",
+    "tz": "9013",
+    "name": "Tz 9013",
+    "nameSince": "15.02.2018",
+    "comment": "Beim Hochwasser in Süddeutschland am 1. Juni 2024 gegen 23:30 Uhr entgleiste nach einem Erdrutsch in Schwäbisch Gmünd während einer Umleitung der führende Endwagen mit beiden Drehgestellen."
+  },
+  {
+    "classId": "412",
+    "tz": "9014",
+    "name": "Tz 9014",
+    "nameSince": "10.01.2018",
+    "comment": "absolvierte von März bis Juni 2018 ETCS-Testfahrten auf der VDE 8 für die Zulassung der Fahrzeuggeräte, im März 2019 testweise mit einem dreizehnten Mittelwagen (Powercar) für Versuchsfahrten unterwegs. Abnahme durch die DB für den Fahrgasteinsatz am 25. Mai 2020."
+  },
+  {
+    "classId": "412",
+    "tz": "9015",
+    "name": "Tz 9015",
+    "nameSince": "02.02.2018"
+  },
+  {
+    "classId": "412",
+    "tz": "9016",
+    "name": "Tz 9016",
+    "nameSince": "12.03.2018",
+    "comment": "für Filmaufnahmen vom 31. Mai 2018 bis 7. Juni 2018 in Leipzig Hbf"
+  },
+  {
+    "classId": "412",
+    "tz": "9017",
+    "name": "Tz 9017",
+    "nameSince": "27.03.2018",
+    "comment": "absolviert im Juli 2018 Zulassungsfahrten. Triebzug aus der Fernsehsendung Die Sendung mit der Maus Juli/August 2018"
+  },
+  {
+    "classId": "412",
+    "tz": "9018",
+    "name": "Freistaat Bayern",
+    "nameSince": "18.07.2018"
+  },
+  {
+    "classId": "412",
+    "tz": "9019",
+    "name": "Tz 9019",
+    "nameSince": "25.05.2018",
+    "comment": "Werbung an beiden Endwagen für Paramount+ als Angebot im ICE Portal von Januar bis März 2023."
+  },
+  {
+    "classId": "412",
+    "tz": "9020",
+    "name": "Tz 9020",
+    "nameSince": "28.06.2018"
+  },
+  {
+    "classId": "412",
+    "tz": "9021",
+    "name": "Tz 9021",
+    "nameSince": "19.07.2018"
+  },
+  {
+    "classId": "412",
+    "tz": "9022",
+    "name": "Tz 9022",
+    "nameSince": "14.08.2018"
+  },
+  {
+    "classId": "412",
+    "tz": "9023",
+    "name": "Tz 9023",
+    "nameSince": "11.09.2018"
+  },
+  {
+    "classId": "412",
+    "tz": "9024",
+    "name": "Tz 9024",
+    "nameSince": "28.09.2018",
+    "comment": "Dieser Triebzug wurde über die komplette Länge mit grünem statt rotem Zierstreifen in Dienst gestellt. Nach der ersten Revision wurden die grünen Zierstreifen an einem Teil der Wagen entfernt."
+  },
+  {
+    "classId": "412",
+    "tz": "9025",
+    "name": "Nordrhein-Westfalen",
+    "nameSince": "30.11.2018"
+  },
+  {
+    "classId": "412",
+    "tz": "9026",
+    "name": "Zürichsee",
+    "nameSince": "23.11.2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9027",
+    "name": "Tz 9027",
+    "nameSince": "18.02.2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9028",
+    "name": "Freistaat Sachsen",
+    "nameSince": "02.03.2020",
+    "comment": "Abnahme durch DB am 17. Juli 2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9029",
+    "name": "Tz 9029",
+    "nameSince": "26.03.2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9030",
+    "name": "Tz 9030",
+    "nameSince": "08.04.2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9031",
+    "name": "Tz 9031",
+    "nameSince": "07.05.2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9032",
+    "name": "Tz 9032",
+    "nameSince": "21.05.2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9033",
+    "name": "Tz 9033",
+    "nameSince": "11.06.2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9034",
+    "name": "Tz 9034",
+    "nameSince": "28.06.2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9035",
+    "name": "Tz 9035",
+    "nameSince": "24.07.2019",
+    "comment": "Sanierung eines Wasserschadens im Endwagen 0812 035"
+  },
+  {
+    "classId": "412",
+    "tz": "9036",
+    "name": "Tz 9036",
+    "nameSince": "30.07.2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9037",
+    "name": "Tz 9037",
+    "nameSince": "20.08.2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9038",
+    "name": "Tz 9038",
+    "nameSince": "09.09.2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9039",
+    "name": "Tz 9039",
+    "nameSince": "04.10.2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9040",
+    "name": "Tz 9040",
+    "nameSince": "18.10.2019",
+    "comment": "Zusammenstoß mit Pkw an Bahnübergang in Alvesse am 26. März 2022"
+  },
+  {
+    "classId": "412",
+    "tz": "9041",
+    "name": "Baden-Württemberg",
+    "nameSince": "08.01.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9042",
+    "name": "Tz 9042",
+    "nameSince": "22.11.2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9043",
+    "name": "Tz 9043",
+    "nameSince": "10.12.2019"
+  },
+  {
+    "classId": "412",
+    "tz": "9044",
+    "name": "Tz 9044",
+    "nameSince": "15.01.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9045",
+    "name": "Tz 9045",
+    "nameSince": "20.01.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9046",
+    "name": "Tz 9046",
+    "nameSince": "14.02.2020",
+    "comment": "am 11. Mai 2022 erstmalig als „Female ICE“ von München nach Berlin gefahren."
+  },
+  {
+    "classId": "412",
+    "tz": "9047",
+    "name": "Tz 9047",
+    "nameSince": "17.02.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9048",
+    "name": "Tz 9048",
+    "nameSince": "17.03.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9049",
+    "name": "Tz 9049",
+    "nameSince": "04.05.2020",
+    "comment": "Dieser Triebzug wurde bei einem Rangierunfall am 29. September 2022 mit einer Lok in Hamburg erheblich beschädigt. Der Triebzug wurde zum Oktober 2022 abgestellt und einige Wagen zeitweise in die Triebzüge 9019, 9023, 9039 und 9466 eingereiht. Seit April 2023 wieder in Betrieb."
+  },
+  {
+    "classId": "412",
+    "tz": "9050",
+    "name": "Metropole Ruhr",
+    "nameSince": "02.10.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9201",
+    "name": "Hannover",
+    "nameSince": "29.10.2018",
+    "comment": "Vorserieneinheit, siebenteilig – ab Februar 2019 für Zulassungsfahrten von Siemens in Betrieb genommen Die beiden Endwagen wurden im Mai 2023 anlässlich der Europameisterschaft der Männer 2024 in Deutschland mit drei schemenhaften Handballer-Figuren in Bundesfarben und dem Schriftzug „Klimafreundlicher Mobilitätspartner der Handball-EM 2024“ versehen."
+  },
+  {
+    "classId": "412",
+    "tz": "9202",
+    "name": "Schleswig-Holstein",
+    "nameSince": "04.02.2022",
+    "comment": "Vorserieneinheit, siebenteilig – ab Februar 2019 für Zulassungsfahrten von Siemens in Betrieb genommen"
+  },
+  {
+    "classId": "412",
+    "tz": "9203",
+    "name": "Stendal",
+    "nameSince": "12.12.2018",
+    "comment": "Vorserieneinheit, siebenteilig – ab Februar 2019 für Zulassungsfahrten von Siemens in Betrieb genommen"
+  },
+  {
+    "classId": "412",
+    "tz": "9204",
+    "name": "Tz 9204",
+    "nameSince": "04.01.2019",
+    "comment": "Vorserieneinheit, siebenteilig – ab Februar 2019 für Zulassungsfahrten von Siemens in Betrieb genommen"
+  },
+  {
+    "classId": "412",
+    "tz": "9205",
+    "name": "Biosphärengebiet Schwäbische Alb",
+    "nameSince": "24.07.2025"
+  },
+  {
+    "classId": "412",
+    "tz": "9206",
+    "name": "Tz 9206",
+    "nameSince": "26.03.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9207",
+    "name": "Tz 9207",
+    "nameSince": "19.06.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9208",
+    "name": "Nationalpark Bayerischer Wald",
+    "nameSince": "08.05.2024"
+  },
+  {
+    "classId": "412",
+    "tz": "9209",
+    "name": "Tz 9209",
+    "nameSince": "28.07.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9210",
+    "name": "Tz 9210",
+    "nameSince": "14.08.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9211",
+    "name": "Tz 9211",
+    "nameSince": "01.09.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9212",
+    "name": "Tz 9212",
+    "nameSince": "27.07.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9213",
+    "name": "Tz 9213",
+    "nameSince": "28.09.2020",
+    "comment": "Die beiden Endwagen sind mit einer stilisierten Darstellung eines roten Mund-Nasen-Schutzes versehen."
+  },
+  {
+    "classId": "412",
+    "tz": "9214",
+    "name": "Tz 9214",
+    "nameSince": "11.09.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9215",
+    "name": "Tz 9215",
+    "nameSince": "13.10.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9216",
+    "name": "Tz 9216",
+    "nameSince": "29.10.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9217",
+    "name": "Tz 9217",
+    "nameSince": "02.11.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9218",
+    "name": "Tz 9218",
+    "nameSince": "15.11.2020",
+    "comment": "Im April 2021 im Rahmen eines Malwettbewerbes mit von Kindern gemalten Bildern versehen."
+  },
+  {
+    "classId": "412",
+    "tz": "9219",
+    "name": "Tz 9219",
+    "nameSince": "04.12.2020"
+  },
+  {
+    "classId": "412",
+    "tz": "9220",
+    "name": "Tz 9220",
+    "nameSince": "03.04.2023",
+    "comment": "erster Fahrgasteinsatz am 13. Mai 2023 als ICE 656 Berlin–Hannover–Hamm (Westfalen)"
+  },
+  {
+    "classId": "412",
+    "tz": "9221",
+    "name": "Tz 9221",
+    "nameSince": "01.05.2023",
+    "comment": "erster Fahrgasteinsatz am 11. Juni 2023 als ICE 797 Berlin–Frankfurt (Main)"
+  },
+  {
+    "classId": "412",
+    "tz": "9222",
+    "name": "Tz 9222",
+    "nameSince": "15.05.2023",
+    "comment": "erster Fahrgasteinsatz am 1. August 2023 als ICE 2920 Berlin–Düsseldorf"
+  },
+  {
+    "classId": "412",
+    "tz": "9223",
+    "name": "Tz 9223",
+    "nameSince": "22.05.2023",
+    "comment": "erster Fahrgasteinsatz am 24. Juni 2023 als ICE 2943 Berlin–Stuttgart"
+  },
+  {
+    "classId": "412",
+    "tz": "9224",
+    "name": "Tz 9224",
+    "nameSince": "05.06.2023",
+    "comment": "erster Fahrgasteinsatz am 15. Juli 2023 als ICE 646 Berlin–Düsseldorf"
+  },
+  {
+    "classId": "412",
+    "tz": "9225",
+    "name": "Tz 9225",
+    "nameSince": "19.06.2023",
+    "comment": "erster Fahrgasteinsatz am 22. Juli 2023 als ICE 646 Berlin–Düsseldorf"
+  },
+  {
+    "classId": "412",
+    "tz": "9226",
+    "name": "Tz 9226",
+    "nameSince": "03.07.2023",
+    "comment": "erster Fahrgasteinsatz am 5. August 2023 als ICE 2902 Berlin–Rostock"
+  },
+  {
+    "classId": "412",
+    "tz": "9227",
+    "name": "Tz 9227",
+    "nameSince": "17.07.2023",
+    "comment": "erster Fahrgasteinsatz am 19. August 2023 als ICE 646 Berlin–Düsseldorf"
+  },
+  {
+    "classId": "412",
+    "tz": "9228",
+    "name": "Tz 9228",
+    "nameSince": "31.07.2023",
+    "comment": "erster Fahrgasteinsatz am 3. September 2023 als ICE 754 Berlin–Düsseldorf"
+  },
+  {
+    "classId": "412",
+    "tz": "9229",
+    "name": "Tz 9229",
+    "nameSince": "14.08.2023",
+    "comment": "erster Fahrgasteinsatz am 17. September 2023 als ICE 956 Berlin–Köln"
+  },
+  {
+    "classId": "412",
+    "tz": "9230",
+    "name": "Tz 9230",
+    "nameSince": "28.08.2023",
+    "comment": "erster Fahrgasteinsatz am 30. September 2023 als ICE 844 Berlin–Köln"
+  },
+  {
+    "classId": "412",
+    "tz": "9231",
+    "name": "Tz 9231",
+    "nameSince": "11.09.2023",
+    "comment": "erster Fahrgasteinsatz am 14. Oktober 2023 als ICE 501 Berlin–München"
+  },
+  {
+    "classId": "412",
+    "tz": "9232",
+    "name": "Tz 9232",
+    "nameSince": "25.09.2023",
+    "comment": "erster Fahrgasteinsatz am 29. Oktober 2023 als ICE 956 Berlin–Köln"
+  },
+  {
+    "classId": "412",
+    "tz": "9233",
+    "name": "Tz 9233",
+    "nameSince": "25.09.2023",
+    "comment": "erster Fahrgasteinsatz am 11. November 2023 als ICE 548 Berlin–Köln"
+  },
+  {
+    "classId": "412",
+    "tz": "9234",
+    "name": "Ruhr",
+    "nameSince": "14.06.2024",
+    "comment": "erster Fahrgasteinsatz am 26. November 2023 als ICE 954 Berlin–Köln"
+  },
+  {
+    "classId": "412",
+    "tz": "9235",
+    "name": "Tz 9235",
+    "nameSince": "13.12.2023",
+    "comment": "erster Fahrgasteinsatz am 16. Dezember 2023 als ICE 573 Berlin–Stuttgart"
+  },
+  {
+    "classId": "412",
+    "tz": "9236",
+    "name": "Tz 9236",
+    "nameSince": "13.12.2023",
+    "comment": "erster Fahrgasteinsatz am 19. Januar 2024 als ICE Berlin–Hamburg"
+  },
+  {
+    "classId": "412",
+    "tz": "9237",
+    "name": "Spree",
+    "nameSince": "19.03.2024",
+    "comment": "Erhielt anlässlich der letzten Auslieferung eines ICE 4 die Sonderbeklebung „ICE 4#137 – The final one“, später dann „ICE 4-Flotte komplett. – #StarkeSchiene“. Mit seiner Auslieferung am 19. Februar 2024 sind alle 137 bestellten ICE 4 ausgeliefert. Erster Fahrgasteinsatz am 24. Februar 2024 als ICE 942 Berlin–Köln"
+  },
+  {
+    "classId": "412",
+    "tz": "9238",
+    "name": "Tz 9238",
+    "nameSince": "01.02.2021",
+    "comment": "Reserveendwagen zum künftigen Tausch für beschädigte Endwagen, bestehend nur aus den Wagen 6812 238 und 7812 238."
+  },
+  {
+    "classId": "412",
+    "tz": "9451",
+    "name": "Tz 9451",
+    "nameSince": "08.07.2020",
+    "comment": "Vorserieneinheit, dreizehnteilig – ab März 2019 für Zulassungsfahrten von Siemens in Betrieb genommen, seit 16. August 2021 im Fahrgasteinsatz. Am 15. Dezember 2025 hat ein Fahrgast einen Brand in der Zugtoilette von Wagen 1 verursacht. Dadurch musste der Zug im Bahnhof Gotha evakuiert werden. Es entstand ein Sachschaden von mindestens 10.000 Euro. In der Folge wurde der beschädigte Endwagen durch einen Endwagen eines anderen Triebzuges ersetzt."
+  },
+  {
+    "classId": "412",
+    "tz": "9452",
+    "name": "Tz 9452",
+    "nameSince": "06.01.2021",
+    "comment": "erster dreizehnteiliger Serienzug, erste Fahrt am 20. Februar 2021 als ICE 2957 Berlin–Basel"
+  },
+  {
+    "classId": "412",
+    "tz": "9453",
+    "name": "Tz 9453",
+    "nameSince": "27.01.2021",
+    "comment": "erste Fahrt am 6. März 2021 als ICE 2959 Berlin–Frankfurt–Stuttgart–München"
+  },
+  {
+    "classId": "412",
+    "tz": "9454",
+    "name": "Tz 9454",
+    "nameSince": "17.02.2021",
+    "comment": "Abnahmefahrt am 22. März 2021 (Köln–Frankfurt–Leipzig)"
+  },
+  {
+    "classId": "412",
+    "tz": "9455",
+    "name": "Tz 9455",
+    "nameSince": "08.03.2021"
+  },
+  {
+    "classId": "412",
+    "tz": "9456",
+    "name": "Tz 9456",
+    "nameSince": "22.03.2021"
+  },
+  {
+    "classId": "412",
+    "tz": "9457",
+    "name": "Bundesrepublik Deutschland",
+    "nameSince": "08.06.2021",
+    "comment": "Dieser Triebzug wurde am 8. Juni 2021 in Anwesenheit von Bundespräsident Frank-Walter Steinmeier auf den Namen „Bundesrepublik Deutschland“ getauft; er besitzt einen durchgängigen schwarz-rot-goldenen Streifen und besitzt eine leicht veränderte Innenausstattung. Dazu gehören in beiden Endwagen Metallelemente mit der Schrift „ICE Bundesrepublik Deutschland“ sowie Kopfkissen an den Sitzen mit selbiger Aufschrift. Die restlichen Mittelwagen wurden Mitte August 2021 den Endwagen angepasst und erhielten auch einen Zierstreifen in Schwarz-Rot-Gold. Der Triebzug wurde am 9. Dezember 2022 für die Sonderfahrt mit geladenen Gästen und Gewinnern eines Gewinnspiels auf der Schnellfahrstrecke Wendlingen–Ulm als Premierenzug eingesetzt. Auch am 10. Dezember 2022 wurden weitere Sonderfahrten damit durchgeführt, bevor die Strecke offiziell am 11. Dezember 2022 für den Fahrgastbetrieb im Regelverkehr freigegeben wurde. Der Triebzug wurde dabei mit einer Sonderbeklebung an beiden Enden versehen. Anlässlich des Staatsbesuchs des britischen Königspaares von Charles III. und Camilla in Berlin und Hamburg, fuhren am 31. März 2023 beide in Begleitung von Bundespräsident Frank-Walter Steinmeier und dessen Ehefrau mit ICE 804 von Berlin nach Hamburg-Dammtor. Für diesen Anlass wurde der Triebzug 9457 „Bundesrepublik Deutschland“ auf dieser Zugfahrt eingesetzt."
+  },
+  {
+    "classId": "412",
+    "tz": "9458",
+    "name": "Tz 9458",
+    "nameSince": "21.04.2021"
+  },
+  {
+    "classId": "412",
+    "tz": "9459",
+    "name": "Tz 9459",
+    "nameSince": "03.05.2021"
+  },
+  {
+    "classId": "412",
+    "tz": "9460",
+    "name": "Tz 9460",
+    "nameSince": "07.06.2021",
+    "comment": "Am 11. Februar 2025 kollidierte der Triebzug als Zugfahrt ICE 613 auf einem halbbeschrankten Bahnübergang in der Nähe des Bahnhofes Hamburg-Harburg mit einem LKW. Bei dem Unfall wurde mehrere Personen verletzt, eine davon tödlich."
+  },
+  {
+    "classId": "412",
+    "tz": "9461",
+    "name": "Tz 9461",
+    "nameSince": "19.05.2021",
+    "comment": "Am Morgen des 13.12.22 wurde der Zug in einem schweren Bahnübergangsunfall bei Hamburg verwickelt. Ein Radsatz des ersten Drehgestells entgleiste dabei."
+  },
+  {
+    "classId": "412",
+    "tz": "9462",
+    "name": "Tz 9462",
+    "nameSince": "25.06.2021",
+    "comment": "Am Nachmittag des 15. November 2023 kollidierte dieser Triebzug im Bahnhof Lauenbrück, im Bereich einer Weiche, trotz eingeleiteter Schnellbremsung mit etwa 50 km/h mit der Flanke eines ins Gleis ragenden Regionalzuges. Von den etwa 550 Fahrgästen und Bediensteten wurde niemand verletzt. Der Regionalzug befand sich auf einer Leerfahrt. Der Triebzug war als ICE 615 von Hamburg nach München unterwegs. Der Triebzug wurde am führenden Fahrzeug (0812 062) schwer beschädigt."
+  },
+  {
+    "classId": "412",
+    "tz": "9463",
+    "name": "Tz 9463",
+    "nameSince": "19.07.2021"
+  },
+  {
+    "classId": "412",
+    "tz": "9464",
+    "name": "Tz 9464",
+    "nameSince": "05.07.2021",
+    "comment": "Dieser Triebzug kollidierte am 16. April 2024 als Zugfahrt ICE 614 in Worms Hauptbahnhof seitlich mit einer Rangierfahrt. Die ersten fünf Wagen (0812 04, 1812 064, 1412 064, 8812 064, 6412 064) des Triebzuges wurden dabei seitlich beschädigt. Vier Reisende erlitten leichte Verletzungen."
+  },
+  {
+    "classId": "412",
+    "tz": "9465",
+    "name": "Tz 9465",
+    "nameSince": "16.08.2021"
+  },
+  {
+    "classId": "412",
+    "tz": "9466",
+    "name": "Tz 9466",
+    "nameSince": "30.08.2021"
+  },
+  {
+    "classId": "412",
+    "tz": "9467",
+    "name": "Tz 9467",
+    "nameSince": "02.08.2021"
+  },
+  {
+    "classId": "412",
+    "tz": "9468",
+    "name": "Tz 9468",
+    "nameSince": "13.09.2021",
+    "comment": "Mit diesem Triebzug wurde im Januar und Februar 2022 die neue Fahrzeugsoftware auf dem Prüfcenter Wegberg-Wildenrath erprobt. Nach Abschluss der Erprobung und Zulassung ging er am 20. Februar 2022 in den Fahrgasteinsatz, wurde allerdings wieder auf 250 km/h zurückgestuft."
+  },
+  {
+    "classId": "412",
+    "tz": "9469",
+    "name": "Tz 9469",
+    "nameSince": "27.09.2021"
+  },
+  {
+    "classId": "412",
+    "tz": "9470",
+    "name": "Tz 9470",
+    "nameSince": "25.10.2021"
+  },
+  {
+    "classId": "412",
+    "tz": "9471",
+    "name": "Tz 9471",
+    "nameSince": "11.10.2021"
+  },
+  {
+    "classId": "412",
+    "tz": "9472",
+    "name": "Tz 9472",
+    "nameSince": "08.11.2021"
+  },
+  {
+    "classId": "412",
+    "tz": "9473",
+    "name": "Tz 9473",
+    "nameSince": "23.11.2021"
+  },
+  {
+    "classId": "412",
+    "tz": "9474",
+    "name": "Tz 9474",
+    "nameSince": "06.12.2021",
+    "comment": "erste Fahrt am 21. Januar 2022 als ICE 691 Berlin–Frankfurt–München"
+  },
+  {
+    "classId": "412",
+    "tz": "9475",
+    "name": "Tz 9475",
+    "nameSince": "20.12.2021",
+    "comment": "erste Fahrt am 5. Februar 2022 als ICE 501 Berlin–Nürnberg–München"
+  },
+  {
+    "classId": "412",
+    "tz": "9476",
+    "name": "Tz 9476",
+    "nameSince": "30.12.2021",
+    "comment": "erste Fahrt am 27. Februar 2022 als ICE 1091 Berlin–Frankfurt–Stuttgart"
+  },
+  {
+    "classId": "412",
+    "tz": "9477",
+    "name": "Tz 9477",
+    "nameSince": "31.01.2022",
+    "comment": "erste Fahrt am 13. März 2022 als ICE 373 Berlin–Frankfurt–Interlaken"
+  },
+  {
+    "classId": "412",
+    "tz": "9478",
+    "name": "Tz 9478",
+    "nameSince": "21.02.2022",
+    "comment": "erste Fahrt am 10. April 2022 als ICE 597 Berlin–Frankfurt–München"
+  },
+  {
+    "classId": "412",
+    "tz": "9479",
+    "name": "Tz 9479",
+    "nameSince": "07.03.2022",
+    "comment": "erste Fahrt am 16. April 2022 als ICE 277 Berlin–Frankfurt–Rastatt"
+  },
+  {
+    "classId": "412",
+    "tz": "9480",
+    "name": "Tz 9480",
+    "nameSince": "28.03.2022",
+    "comment": "erste Fahrt am 7. Mai 2022 als ICE 377 Berlin–Frankfurt–Basel"
+  },
+  {
+    "classId": "412",
+    "tz": "9481",
+    "name": "Rheinland-Pfalz",
+    "nameSince": "18.07.2022",
+    "comment": "erste Fahrt am 21. Mai 2022 als ICE 277 Berlin–Frankfurt–Basel"
+  },
+  {
+    "classId": "412",
+    "tz": "9482",
+    "name": "Tz 9482",
+    "nameSince": "02.05.2022",
+    "comment": "erste Fahrt am 9. Juni 2022 als ICE 518 München–Köln–Hamburg"
+  },
+  {
+    "classId": "412",
+    "tz": "9483",
+    "name": "Tz 9483",
+    "nameSince": "18.05.2022",
+    "comment": "erste Fahrt am 16. Juli 2022 als ICE 595 Berlin–Frankfurt–München"
+  },
+  {
+    "classId": "412",
+    "tz": "9484",
+    "name": "Tz 9484",
+    "nameSince": "01.06.2022",
+    "comment": "erste Fahrt am 19. Juli 2022 als ICE 275 Berlin–Frankfurt–Interlaken"
+  },
+  {
+    "classId": "412",
+    "tz": "9485",
+    "name": "Tz 9485",
+    "nameSince": "01.06.2022",
+    "comment": "erste Fahrt am 6. August 2022 als ICE 593 Berlin–Frankfurt–München"
+  },
+  {
+    "classId": "412",
+    "tz": "9486",
+    "name": "Tz 9486",
+    "nameSince": "27.06.2022",
+    "comment": "erste Fahrt am 20. August 2022 als ICE 593 Berlin–Frankfurt–München"
+  },
+  {
+    "classId": "412",
+    "tz": "9487",
+    "name": "Tz 9487",
+    "nameSince": "26.07.2022",
+    "comment": "erste Fahrt am 10. September 2022 als ICE 373 Berlin–Frankfurt–Interlaken"
+  },
+  {
+    "classId": "412",
+    "tz": "9488",
+    "name": "Würzburg",
+    "nameSince": "15.08.2022",
+    "comment": "erste Fahrt am 24. September 2022 als ICE 377 Berlin–Frankfurt–Basel"
+  },
+  {
+    "classId": "412",
+    "tz": "9489",
+    "name": "Tz 9489",
+    "nameSince": "29.09.2022",
+    "comment": "erste Fahrt am 9. Oktober 2022 als ICE 277 Berlin–Frankfurt–Basel"
+  },
+  {
+    "classId": "412",
+    "tz": "9490",
+    "name": "Tz 9490",
+    "nameSince": "19.09.2022",
+    "comment": "erste Fahrt am 29. Oktober 2022 als ICE 877 Berlin–Frankfurt–Karlsruhe"
+  },
+  {
+    "classId": "412",
+    "tz": "9491",
+    "name": "Tz 9491",
+    "nameSince": "10.10.2022",
+    "comment": "erste Fahrt am 19. November 2022 als ICE 597 Berlin–Frankfurt–Stuttgart–München"
+  },
+  {
+    "classId": "412",
+    "tz": "9492",
+    "name": "Tz 9492",
+    "nameSince": "24.10.2022",
+    "comment": "erste Fahrt am 3. Dezember 2022 als ICE 279 Berlin–Frankfurt–Basel"
+  },
+  {
+    "classId": "412",
+    "tz": "9493",
+    "name": "Tz 9493",
+    "nameSince": "07.11.2022",
+    "comment": "erste Fahrt am 18. Dezember 2022 als ICE 277 Berlin–Frankfurt–Basel"
+  },
+  {
+    "classId": "412",
+    "tz": "9494",
+    "name": "Tz 9494",
+    "nameSince": "21.11.2022",
+    "comment": "erste Fahrt am 13. Januar 2023 als ICE 844 Berlin-Köln"
+  },
+  {
+    "classId": "412",
+    "tz": "9495",
+    "name": "Tz 9495",
+    "nameSince": "12.12.2022",
+    "comment": "erste Fahrt am 28. Januar 2023 als ICE 371 Berlin–Frankfurt–Basel"
+  },
+  {
+    "classId": "412",
+    "tz": "9496",
+    "name": "Tz 9496",
+    "nameSince": "27.12.2022",
+    "comment": "erste Fahrt am 12. Februar 2023 als ICE 277 Berlin–Frankfurt–Basel"
+  },
+  {
+    "classId": "412",
+    "tz": "9497",
+    "name": "Tz 9497",
+    "nameSince": "16.01.2023",
+    "comment": "erste Fahrt am 25. Februar 2023 als ICE 279 Berlin–Frankfurt–Basel"
+  },
+  {
+    "classId": "412",
+    "tz": "9498",
+    "name": "Tz 9498",
+    "nameSince": "07.02.2023",
+    "comment": "erste Fahrt am 19. März 2023 als ICE 279 Berlin–Frankfurt–Basel"
+  },
+  {
+    "classId": "412",
+    "tz": "9499",
+    "name": "Matterhorn",
+    "nameSince": "28.02.2023",
+    "comment": "erste Fahrt am 8. April 2023 als ICE 573 Berlin–Frankfurt–Stuttgart"
+  },
+  {
+    "classId": "412",
+    "tz": "9500",
+    "name": "Tz 9500",
+    "nameSince": "13.03.2023",
+    "comment": "erste Fahrt am 21. April 2023 als ICE 2906 von Berlin nach Hamburg"
+  },
+  {
+    "classId": "411",
+    "tz": "1101",
+    "name": "Neustadt an der Weinstraße",
+    "nameSince": "26.06.2003"
+  },
+  {
+    "classId": "411",
+    "tz": "1102",
+    "name": "Neubrandenburg",
+    "nameSince": "30.09.2003",
+    "comment": "Präsentationszug für das lokale Informations- und Entertainmentportal"
+  },
+  {
+    "classId": "411",
+    "tz": "1103",
+    "name": "Paderborn",
+    "nameSince": "25.06.2003"
+  },
+  {
+    "classId": "411",
+    "tz": "1104",
+    "name": "Erfurt",
+    "nameSince": "21.11.2002",
+    "comment": "Prellbockauffahrt im April 2009 in Wien"
+  },
+  {
+    "classId": "411",
+    "tz": "1105",
+    "name": "Dresden",
+    "nameSince": "20.12.2002"
+  },
+  {
+    "classId": "411",
+    "tz": "1106",
+    "name": "Passau",
+    "nameSince": "27.03.2003",
+    "nameUntil": "14.09.2004",
+    "comment": "Der Triebzug 1106 wurde in der Nacht vom 5. auf den 6. Januar 2004 gegen 2.30 durch einen Brand in der Abstellanlage Leipzig soweit beschädigt, dass er nicht mehr einsatzbereit war. Die verschont gebliebenen Endwagen dieses Triebzuges werden gelegentlich als Ersatz für defekte Endwagen anderer Triebzüge eingesetzt. Der Name „Passau“ wurde an den Triebzug 1159 abgegeben."
+  },
+  {
+    "classId": "411",
+    "tz": "1107",
+    "name": "Pirna",
+    "nameSince": "14.06.2003"
+  },
+  {
+    "classId": "411",
+    "tz": "1108",
+    "name": "Hansestadt Wismar",
+    "nameSince": "02.08.2003",
+    "nameUntil": "12.12.2004",
+    "comment": "Die Endwagen 411 008 und 411 508 trugen im Oktober 2019 im Rahmen der Frankfurter Buchmesse kurzzeitig die Beklebung „DB–Literaturzug“."
+  },
+  {
+    "classId": "411",
+    "tz": "1108",
+    "name": "Berlin",
+    "nameSince": "12.12.2004",
+    "comment": "Die Endwagen 411 008 und 411 508 trugen im Oktober 2019 im Rahmen der Frankfurter Buchmesse kurzzeitig die Beklebung „DB–Literaturzug“."
+  },
+  {
+    "classId": "411",
+    "tz": "1109",
+    "name": "Güstrow",
+    "nameSince": "21.06.2003"
+  },
+  {
+    "classId": "411",
+    "tz": "1110",
+    "name": "Naumburg",
+    "nameSince": "22.11.2003"
+  },
+  {
+    "classId": "411",
+    "tz": "1111",
+    "name": "Berlin",
+    "nameSince": "31.10.2002",
+    "nameUntil": "12.12.2004"
+  },
+  {
+    "classId": "411",
+    "tz": "1111",
+    "name": "Hansestadt Wismar",
+    "nameSince": "12.12.2004"
+  },
+  {
+    "classId": "411",
+    "tz": "1112",
+    "name": "Freie und Hansestadt Hamburg",
+    "nameSince": "06.11.2002",
+    "comment": "Am 31. Juli 2009 kollidierte der Triebzug als ICE 1501 bei der Einfahrt auf Gleis 15 im Hauptbahnhof München mit dem Prellbock und verschob diesen um etwa vier Meter. Der Triebfahrzeugführer wurde dabei leicht verletzt, Fahrgäste kamen nicht zu schaden. Es entstand ein größerer Schaden am Prellbock und dem umgebenden Bahnsteig."
+  },
+  {
+    "classId": "411",
+    "tz": "1113",
+    "name": "Hansestadt Stralsund",
+    "nameSince": "24.05.2003",
+    "comment": "Am 13. Januar 2012 lockerte sich am Triebzug 1113, unterwegs als ICE 109 von Berlin nach München auf der Schnellfahrstrecke Nürnberg–Ingolstadt–München eine Tür. In der Folge mussten alle ICE T untersucht werden. Zeitweise durften alle (nicht geprüften) ICE-T-Triebfahrzeuge nur noch mit 200 km/h verkehren."
+  },
+  {
+    "classId": "411",
+    "tz": "1114",
+    "name": "Bamberg",
+    "nameSince": "10.05.2003",
+    "nameUntil": "28.11.2007"
+  },
+  {
+    "classId": "411",
+    "tz": "1114",
+    "name": "Tz 1114",
+    "nameSince": "28.11.2007"
+  },
+  {
+    "classId": "411",
+    "tz": "1115",
+    "name": "Coburg",
+    "nameSince": "06.10.2003",
+    "nameUntil": "08.11.2006",
+    "comment": "Am 1. März 2000 entgleiste der Triebzug 1115 als ICE 1146 gegen 11.45 während einer Überführungsfahrt ohne Fahrgäste zum ICE-Werk Berlin-Rummelsburg auf der Berliner Stadtbahn. Ein defektes Rückschlagventil der Hydraulikleitung am Wagenübergang blockierte den Ölrückfluss aus einem Neigetechnikzylinder und führte zu einer Verwindung des Wagenkastens des dritten Wagens. Noch am Abend stellte die DB alle ICE T ab. Die von der DB zur Vereinfachung der Wartung geforderten Ventile wurden durch einfache Verbindungen ersetzt. Am 6. März kehrten die Triebzüge in den Plandienst zurück."
+  },
+  {
+    "classId": "411",
+    "tz": "1116",
+    "name": "Halle",
+    "nameSince": "21.01.2000",
+    "nameUntil": "08.11.2006"
+  },
+  {
+    "classId": "411",
+    "tz": "1117",
+    "name": "Erlangen",
+    "nameSince": "30.06.2004"
+  },
+  {
+    "classId": "411",
+    "tz": "1118",
+    "name": "Plauen/Vogtland",
+    "nameSince": "11.03.2004",
+    "comment": "Messfahrten im Jahre 2011"
+  },
+  {
+    "classId": "411",
+    "tz": "1119",
+    "name": "Meißen",
+    "nameSince": "09.11.2003"
+  },
+  {
+    "classId": "411",
+    "tz": "1120",
+    "name": "Gotha",
+    "nameSince": "28.04.2003",
+    "nameUntil": "08.11.2006"
+  },
+  {
+    "classId": "411",
+    "tz": "1121",
+    "name": "Homburg/Saar",
+    "nameSince": "09.07.2003",
+    "nameUntil": "08.11.2006"
+  },
+  {
+    "classId": "411",
+    "tz": "1122",
+    "name": "Torgau",
+    "nameSince": "12.05.2004",
+    "nameUntil": "02.01.2007"
+  },
+  {
+    "classId": "411",
+    "tz": "1123",
+    "name": "Hansestadt Greifswald",
+    "nameSince": "17.03.2000",
+    "nameUntil": "08.11.2006"
+  },
+  {
+    "classId": "411",
+    "tz": "1124",
+    "name": "Hansestadt Rostock",
+    "nameSince": "24.03.2000",
+    "nameUntil": "12.09.2006"
+  },
+  {
+    "classId": "411",
+    "tz": "1125",
+    "name": "Arnstadt",
+    "nameSince": "01.05.2004"
+  },
+  {
+    "classId": "411",
+    "tz": "1126",
+    "name": "Leipzig",
+    "nameSince": "13.12.2002",
+    "comment": "Am 24. September 2006 kam es zwischen Erlangen und Bamberg zu einem Schwelbrand im Bordrestaurant des Triebzuges 1126 Leipzig (unterwegs als ICE 1612). Es gab keine Verletzten, der Sachschaden belief sich auf ungefähr 200.000 Euro. Infolge des Brandschadens wurde der Speisewagen des beschädigten Triebfahrzeugs mit dem des Triebzugs 1102 getauscht."
+  },
+  {
+    "classId": "411",
+    "tz": "1127",
+    "name": "Weimar",
+    "nameSince": "17.01.2003"
+  },
+  {
+    "classId": "411",
+    "tz": "1128",
+    "name": "Reutlingen",
+    "nameSince": "30.11.2004"
+  },
+  {
+    "classId": "411",
+    "tz": "1129",
+    "name": "Kiel",
+    "nameSince": "20.11.2002",
+    "comment": "Am 9. Dezember 2015 wurde Triebzug 1129 mit der Beschriftung Leipzig zur offiziellen Eröffnungsfahrt der Schnellfahrstrecke Erfurt–Leipzig/Halle eingesetzt"
+  },
+  {
+    "classId": "411",
+    "tz": "1130",
+    "name": "Jena",
+    "nameSince": "27.11.2002",
+    "comment": "An den Fahrzeugen 411 030, 130, 230, 530, 630 und 730 war als Abnahmedatum zunächst 8. August 2000, welches später zu 1. Dezember 2000 geändert wurde. Am Mittelwagen 411 830 war 12. April 2001 als Abnahmedatum angeschrieben, welcher erst später eingereiht wurde."
+  },
+  {
+    "classId": "411",
+    "tz": "1131",
+    "name": "Trier",
+    "nameSince": "11.05.2004"
+  },
+  {
+    "classId": "411",
+    "tz": "1132",
+    "name": "Wittenberge",
+    "nameSince": "24.08.2004",
+    "comment": "Dieser Triebzug wurde zur Premierenfahrt am 16. Juni 2017 auf der Schnellfahrstrecke Nürnberg–Erfurt eingesetzt."
+  },
+  {
+    "classId": "411",
+    "tz": "1180",
+    "name": "Darmstadt",
+    "nameSince": "08.11.2006"
+  },
+  {
+    "classId": "411",
+    "tz": "1181",
+    "name": "Horb am Neckar",
+    "nameSince": "08.11.2006",
+    "comment": "Bei der Einfahrt am 23. Dezember 2014 in München Hauptbahnhof, als ICE 1627 von Hamburg kommend, entstand am Wagen 411 581 ein Ölleck, welches sich am Drehgestell entzündete. Daraufhin wurde der Triebzug außerhalb der Bahnhofshalle abgestellt, evakuiert und ein Feuerwehreinsatz ausgelöst. Eine 74-jährige Frau wurde während der Evakuierung verletzt, weitere Verletzte gab es nicht. Abgesehen vom betroffenen Trafowagen werden keine weiteren Schäden am Triebzug bekannt."
+  },
+  {
+    "classId": "411",
+    "tz": "1182",
+    "name": "Mainz",
+    "nameSince": "23.01.2007",
+    "comment": "3 Wagen der 1. sowie 2. Klasse sind mit neuem Polster und dem neuen Sitzdesign „Wohnzimmer“, was ab 2024 zum Einsatz kommt, testweise ausgestattet. Die Sitzschalen blieben dabei unverändert."
+  },
+  {
+    "classId": "411",
+    "tz": "1183g",
+    "name": "Oberursel (Taunus)",
+    "nameSince": "29.11.2006",
+    "comment": "Dieser Triebzug befuhr im Rahmen einer Versuchsfahrt am 28. März 2015 als erster Serien-ICE die Schnellfahrstrecke Erfurt–Leipzig/Halle. Er diente bis zum Fahrplanwechsel im Dezember 2015 als Testzug und war in Leipzig stationiert. Am 12. November 2015 wurde dieser Triebzug für eine Präsentationsfahrt für Journalisten von Leipzig nach Erfurt verwendet. Nach einer Flankenfahrt am 1. Juli 2017 in München abgestellt. Die Wagen 411 583 und 411 623 wurden stark beschädigt. Seit Februar 2019 ist er mit getauschtem Trafowagen wieder im Einsatz."
+  },
+  {
+    "classId": "411",
+    "tz": "1184",
+    "name": "Kaiserslautern",
+    "nameSince": "12.09.2006"
+  },
+  {
+    "classId": "411",
+    "tz": "1151",
+    "name": "Elsterwerda",
+    "nameSince": "19.06.2011",
+    "comment": "Anlässlich einer Presseveranstaltung am 18. April 2011 in Dresden wurde dieser Triebzug mit dem Namen Görlitz beschriftet, da der Triebzug 235 nicht zur Verfügung stand."
+  },
+  {
+    "classId": "411",
+    "tz": "1152",
+    "name": "Travemünde",
+    "nameSince": "13.12.2008"
+  },
+  {
+    "classId": "411",
+    "tz": "1153",
+    "name": "Ilmenau",
+    "nameSince": "01.09.2007"
+  },
+  {
+    "classId": "411",
+    "tz": "1154",
+    "name": "Sonneberg",
+    "nameSince": "27.09.2008",
+    "comment": "Prellbocküberfahrt und Bahnsteigauffahrt am 17. Februar 2017 in Frankfurt-Griesheim Der Trafowagen 411 554 wurde dabei schwer beschädigt. Der Triebzug ist mittlerweile wieder im Einsatz."
+  },
+  {
+    "classId": "411",
+    "tz": "1155",
+    "name": "Mühlhausen/Thüringen",
+    "nameSince": "05.09.2015",
+    "comment": "Prellbockauffahrt am 29. Dezember 2010 in Leipzig; Dieser Triebzug kollidierte infolge des Sturms Mortimer am 30. September 2019 auf der Fahrt als ICE 299 bei Fallersleben mit einem Baum. Der Triebfahrzeugführer wurde leicht verletzt, der Trafowagen 411 071 wurde im Bereich der Frontscheibe und des Führerstandes beschädigt."
+  },
+  {
+    "classId": "411",
+    "tz": "1156 (Müritz)",
+    "name": "Waren",
+    "nameSince": "20.05.2006"
+  },
+  {
+    "classId": "411",
+    "tz": "1157",
+    "name": "Innsbruck",
+    "nameSince": "12.12.2009"
+  },
+  {
+    "classId": "411",
+    "tz": "1158",
+    "name": "Falkenberg/Elster",
+    "nameSince": "15.08.2009",
+    "comment": "Am 4. September 2006 kollidierte der Triebzug 1158 als ICE 1616 auf der Berlin-Hamburger Bahn mit einem Baum. Der Trafowagen 411 558 wurde dabei schwer beschädigt. Bis in das Jahr 2008 verkehrte dieser Triebzug daher mit dem Trafowagen 411 506 des ausgemusterten Triebzugs 1106. Präsentationszug für das lokale Informations- und Entertainmentportal"
+  },
+  {
+    "classId": "411",
+    "tz": "1159",
+    "name": "Passau",
+    "nameSince": "28.02.2005"
+  },
+  {
+    "classId": "411",
+    "tz": "1160",
+    "name": "Markt Holzkirchen",
+    "nameSince": "26.05.2007"
+  },
+  {
+    "classId": "411",
+    "tz": "1161",
+    "name": "Andernach",
+    "nameSince": "17.10.2009"
+  },
+  {
+    "classId": "411",
+    "tz": "1162",
+    "name": "Vaihingen an der Enz",
+    "nameSince": "03.07.2010"
+  },
+  {
+    "classId": "411",
+    "tz": "1163",
+    "name": "Ostseebad Binz",
+    "nameSince": "17.06.2011",
+    "comment": "Risse in der Achse von 411 163-9 machten auf die Achsenprobleme aufmerksam."
+  },
+  {
+    "classId": "411",
+    "tz": "1164",
+    "name": "Rödental",
+    "nameSince": "13.10.2012"
+  },
+  {
+    "classId": "411",
+    "tz": "1165",
+    "name": "Bad Oeynhausen",
+    "nameSince": "17.05.2006"
+  },
+  {
+    "classId": "411",
+    "tz": "1166",
+    "name": "Bingen am Rhein",
+    "nameSince": "24.03.2012"
+  },
+  {
+    "classId": "411",
+    "tz": "1167",
+    "name": "Traunstein",
+    "nameSince": "01.08.2010"
+  },
+  {
+    "classId": "411",
+    "tz": "1168",
+    "name": "Ellwangen",
+    "nameSince": "29.03.2014"
+  },
+  {
+    "classId": "411",
+    "tz": "1169",
+    "name": "Tutzing",
+    "nameSince": "21.07.2010"
+  },
+  {
+    "classId": "411",
+    "tz": "1170",
+    "name": "Prenzlau",
+    "nameSince": "04.05.2013",
+    "comment": "Am 12. Oktober 2019 kam es im zweiten Wagen des Triebzuges 1170, auf der Fahrt als ICE 1744 von Hannover Hbf nach Stralsund Hbf, zwischen Hamburg Hbf und Schwerin Hbf zu einer starken Rauchentwicklung. Bereits während der Fahrt wurde der Wagen durch das Zugpersonal geräumt; der Zug wurde in Schwerin Hbf komplett evakuiert. Als Ursache der Rauchentwicklung gilt eine defekte, vollständig überhitzte Antriebseinrichtung im Bereich der Drehgestelle."
+  },
+  {
+    "classId": "411",
+    "tz": "1171",
+    "name": "Oschatz",
+    "nameSince": "30.03.2006",
+    "comment": "Am 18. Juni 2011 entgleiste der Triebzug 1171 als ICE 1207 auf der Fahrt von Berlin nach Innsbruck zwischen Hochzirl und Kranebitten, nachdem auf der Mittenwaldbahn im Bereich einer Lawinengalerie eine Mure abgegangen war, welche die ersten beiden Wagen des Zuges erfasst hatte. Keiner der 25 Fahrgäste wurde ernsthaft verletzt."
+  },
+  {
+    "classId": "411",
+    "tz": "1172",
+    "name": "Bamberg",
+    "nameSince": "01.11.2007"
+  },
+  {
+    "classId": "411",
+    "tz": "1173",
+    "name": "Halle (Saale)",
+    "nameSince": "03.02.2006",
+    "comment": "Am 9. Dezember 2015 wurde der Triebzug 1173 Halle (Saale) zur offiziellen Eröffnungsfahrt der Schnellfahrstrecke Erfurt–Leipzig/Halle eingesetzt. Der Tz 1173 fuhr am 23. Mai 2023 als erster ICE über die Schwarzwaldbahn von Hamburg nach Konstanz."
+  },
+  {
+    "classId": "411",
+    "tz": "1174",
+    "name": "Hansestadt Warburg",
+    "nameSince": "28.06.2014"
+  },
+  {
+    "classId": "411",
+    "tz": "1175",
+    "name": "Villingen-Schwenningen",
+    "nameSince": "15.09.2012"
+  },
+  {
+    "classId": "411",
+    "tz": "1176",
+    "name": "Coburg",
+    "nameSince": "01.10.2006"
+  },
+  {
+    "classId": "411",
+    "tz": "1177",
+    "name": "Rathenow",
+    "nameSince": "15.07.2006",
+    "comment": "Am Abend des 24. Dezembers 2018 stieß der ICE-3-Triebzug 306 am ICE-Werk München bei etwa 25 km/h mit dem ICE-T-Triebzug 1177 zusammen. Der Trafowagen 411 077 wurde dabei erheblich beschädigt. Seit Mitte Oktober 2019 ist der Triebzug wieder im Einsatz."
+  },
+  {
+    "classId": "411",
+    "tz": "1178",
+    "name": "Ostseebad Warnemünde",
+    "nameSince": "12.06.2007"
+  },
+  {
+    "classId": "408",
+    "tz": "8001",
+    "name": "Tz 8001",
+    "nameSince": "26.08.2021"
+  },
+  {
+    "classId": "408",
+    "tz": "8002",
+    "name": "Tz 8002",
+    "nameSince": "22.10.2021"
+  },
+  {
+    "classId": "408",
+    "tz": "8003",
+    "name": "Tz 8003",
+    "nameSince": "08.12.2021"
+  },
+  {
+    "classId": "408",
+    "tz": "8004",
+    "name": "Tz 8004",
+    "nameSince": "28.01.2022"
+  },
+  {
+    "classId": "408",
+    "tz": "8005",
+    "name": "Tz 8005",
+    "nameSince": "01.03.2022"
+  },
+  {
+    "classId": "408",
+    "tz": "8006",
+    "name": "Tz 8006",
+    "nameSince": "08.04.2022"
+  },
+  {
+    "classId": "408",
+    "tz": "8007",
+    "name": "Rheinland",
+    "nameSince": "08.02.2023"
+  },
+  {
+    "classId": "408",
+    "tz": "8008",
+    "name": "Tz 8008",
+    "nameSince": "09.09.2022"
+  },
+  {
+    "classId": "408",
+    "tz": "8009",
+    "name": "Tz 8009",
+    "nameSince": "05.08.2022"
+  },
+  {
+    "classId": "408",
+    "tz": "8010",
+    "name": "Tz 8010",
+    "nameSince": "21.10.2022"
+  },
+  {
+    "classId": "408",
+    "tz": "8011",
+    "name": "Tz 8011",
+    "nameSince": "07.11.2022"
+  },
+  {
+    "classId": "408",
+    "tz": "8012",
+    "name": "Tz 8012",
+    "nameSince": "21.12.2022"
+  },
+  {
+    "classId": "408",
+    "tz": "8013",
+    "name": "Tz 8013",
+    "nameSince": "23.01.2023"
+  },
+  {
+    "classId": "408",
+    "tz": "8014",
+    "name": "Tz 8014",
+    "nameSince": "31.03.2023"
+  },
+  {
+    "classId": "408",
+    "tz": "8015",
+    "name": "Tz 8015",
+    "nameSince": "24.04.2023"
+  },
+  {
+    "classId": "408",
+    "tz": "8016",
+    "name": "Tz 8016",
+    "nameSince": "19.05.2023"
+  },
+  {
+    "classId": "408",
+    "tz": "8017",
+    "name": "Tz 8017",
+    "nameSince": "16.06.2023"
+  },
+  {
+    "classId": "408",
+    "tz": "8018",
+    "name": "Tz 8018",
+    "nameSince": "10.07.2023"
+  },
+  {
+    "classId": "408",
+    "tz": "8019",
+    "name": "Düsseldorf",
+    "nameSince": "26.02.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8020",
+    "name": "Amsterdam",
+    "nameSince": "12.03.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8021",
+    "name": "Tz 8021",
+    "nameSince": "27.10.2023"
+  },
+  {
+    "classId": "408",
+    "tz": "8022",
+    "name": "Waldecker Land",
+    "nameSince": "05.06.2024"
+  },
+  {
+    "classId": "408",
+    "tz": "8026",
+    "name": "(Christmas Train)",
+    "nameSince": "01.12.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8029",
+    "name": "Europa/Europe",
+    "nameSince": "05.09.2024"
+  },
+  {
+    "classId": "408",
+    "tz": "8030",
+    "name": "Tz 8030",
+    "nameSince": "23.06.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8031",
+    "name": "Tz 8031",
+    "nameSince": "16.12.2024"
+  },
+  {
+    "classId": "408",
+    "tz": "8032",
+    "name": "Tz 8032",
+    "nameSince": "03.03.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8034",
+    "name": "Tz 8034",
+    "nameSince": "09.12.2024"
+  },
+  {
+    "classId": "408",
+    "tz": "8035",
+    "name": "Tz 8035",
+    "nameSince": "24.01.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8036",
+    "name": "Tz 8036",
+    "nameSince": "14.02.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8037",
+    "name": "Tz 8037",
+    "nameSince": "05.05.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8038",
+    "name": "Tz 8038",
+    "nameSince": "25.03.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8039",
+    "name": "Tz 8039",
+    "nameSince": "27.05.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8040",
+    "name": "Tz 8040",
+    "nameSince": "13.05.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8042",
+    "name": "Tz 8042",
+    "nameSince": "07.07.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8043",
+    "name": "Tz 8043",
+    "nameSince": "18.07.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8044",
+    "name": "Tz 8044",
+    "nameSince": "04.08.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8045",
+    "name": "Tz 8045",
+    "nameSince": "12.12.2025"
+  },
+  {
+    "classId": "408",
+    "tz": "8046",
+    "name": "Tz 8046",
+    "nameSince": "23.09.2025"
+  },
+  {
+    "classId": "4011",
+    "tz": "1190",
+    "name": "Wien",
+    "nameSince": "08.12.2007",
+    "comment": "Rückgabe an die Deutsche Bahn am 4. Dezember 2020"
+  },
+  {
+    "classId": "4011",
+    "tz": "1191",
+    "name": "Salzburg",
+    "nameSince": "09.12.2006",
+    "comment": "Rückgabe an die Deutsche Bahn am 4. Dezember 2020"
+  },
+  {
+    "classId": "4011",
+    "tz": "1192",
+    "name": "Linz",
+    "nameSince": "22.08.2008",
+    "comment": "beschädigter Endwagen 4011 592, am 3. März 2008 in Köln Am Morgen des 1. März 2008 fuhr der Triebzug 1192 als ICE 23 bei Brühl in einen durch Orkan Emma umgestürzten Baum. Der Wagen 4011 592 wurde dabei am Führerstand schwer beschädigt, der Triebfahrzeugführer wurde verletzt. Tz 1192 ist seit 11. April 2008 wieder aktiv, der beschädigte Trafowagen wurde durch den 411 506 ersetzt. Rückgabe an die Deutsche Bahn am 4. Dezember 2020"
+  }
+]
