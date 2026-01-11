@@ -2,8 +2,103 @@ import { Hono } from 'hono'
 import { db } from './db/db'
 import { trains, classes } from './db/schema'
 import { eq, like, or } from 'drizzle-orm'
+import { swaggerUI } from '@hono/swagger-ui'
+
+const openApiDoc = {
+  openapi: '3.0.0', // This is the required version field
+  info: {
+    title: 'ICE Train Names API',
+    version: '1.0.0',
+    description: 'API to get information about ICE trains including their name and Baureihe (class)',
+  },
+  paths: {
+    '/trains/{tz}': {
+      get: {
+        summary: 'Get train by train set number (Triebzugnummer)',
+        parameters: [
+          {
+            name: 'tz',
+            in: 'path',
+            required: true,
+            schema: { type: 'integer' },  // Triebzugnummer
+          }
+        ],
+        responses: {
+          '200': {
+            description: 'OK',
+            content: {
+              'application/json': {
+                schema: {
+                  type: 'object',
+                  properties: {
+                    tz: { type: 'integer' },
+                    name: { type: 'string' },
+                    className: { type: 'string' },
+                  },
+                },
+              },
+            },
+          },
+          '404': {
+            description: 'Train not found',
+            content: {
+              'application/json': {
+                schema: { type: 'object', properties: { error: { type: 'string' } } },
+              },
+            },
+          },
+          '400': {
+            description: 'Invalid tz parameter',
+            content: {
+              'application/json': {
+                schema: { type: 'object', properties: { error: { type: 'string' } } },
+              },
+            },
+          },
+        },
+      },
+    },
+    '/trains': {
+      get: {
+        summary: 'Get list of trains by partial query (name or tz)',
+        parameters: [
+          {
+            name: 'query',
+            in: 'query',
+            required: false,
+            schema: { type: 'string' },
+          }
+        ],
+        responses: {
+          '200': {
+            description: 'OK',
+            content: {
+              'application/json': {
+                schema: { type: 'array', items: { type: 'object', properties: { tz: { type: 'integer' }, name: { type: 'string' }, className: { type: 'string' } } } },
+              },
+            },
+          },
+          '404': {
+            description: 'Train not found',
+            content: {
+              'application/json': {
+                schema: { type: 'object', properties: { error: { type: 'string' } } },
+              },
+            },
+          },
+        },
+      },
+    },
+    
+  },
+}
 
 const app = new Hono().basePath('/api/v1')
+
+
+app.get('/', (c) => {
+  return c.json(openApiDoc)
+})
 
 // Get train by tz
 app.get('/trains/:tz', async (c) => {
