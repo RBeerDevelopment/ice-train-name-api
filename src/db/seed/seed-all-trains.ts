@@ -85,7 +85,7 @@ async function seedTrains() {
   await db.delete(trains);
   try {
     // Insert in batches to avoid overwhelming the database
-    const batchSize = 1;
+    const batchSize = 50;
     let insertedCount = 0;
     
     for (let i = 0; i < trainsToInsert.length; i += batchSize) {
