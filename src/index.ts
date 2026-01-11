@@ -1,9 +1,119 @@
 import { Hono } from 'hono'
 import { db } from './db/db'
 import { trains, classes } from './db/schema'
-import { eq, like, or } from 'drizzle-orm'
+import { and, eq, like, or } from 'drizzle-orm'
+import { swaggerUI } from '@hono/swagger-ui'
+
+const openApiDoc = {
+  openapi: '3.0.0', // This is the required version field
+  info: {
+    title: 'ICE Train Names API',
+    version: '1.0.0',
+    description: 'API to get information about ICE trains including their name and Baureihe (class)',
+  },
+  paths: {
+    '/api/v1/trains/{tz}': {
+      get: {
+        summary: 'Get train by train set number (Triebzugnummer)',
+        parameters: [
+          {
+            name: 'tz',
+            in: 'path',
+            required: true,
+            schema: { type: 'integer' },  // Triebzugnummer
+          }
+        ],
+        responses: {
+          '200': {
+            description: 'OK',
+            content: {
+              'application/json': {
+                schema: {
+                  type: 'object',
+                  properties: {
+                    tz: { type: 'integer' },
+                    name: { type: 'string' },
+                    className: { type: 'string' },
+                  },
+                },
+              },
+            },
+          },
+          '404': {
+            description: 'Train not found',
+            content: {
+              'application/json': {
+                schema: { type: 'object', properties: { error: { type: 'string' } } },
+              },
+            },
+          },
+          '400': {
+            description: 'Invalid tz parameter',
+            content: {
+              'application/json': {
+                schema: { type: 'object', properties: { error: { type: 'string' } } },
+              },
+            },
+          },
+        },
+      },
+    },
+    '/api/v1/trains': {
+      get: {
+        summary: 'Get list of trains by partial query (name or tz)',
+        parameters: [
+          {
+            name: 'query',
+            in: 'query',
+            required: false,
+            schema: { type: 'string' },
+          },
+          {
+            name: 'activeOnly',
+            in: 'query',
+            required: false,
+            schema: { type: 'boolean' },
+            description: 'Only return active trains',
+            default: false,
+          }
+        ],
+        responses: {
+          '200': {
+            description: 'OK',
+            content: {
+              'application/json': {
+                schema: { type: 'array', items: { type: 'object', properties: { tz: { type: 'integer' }, name: { type: 'string' }, className: { type: 'string' } } } },
+              },
+            },
+          },
+          '404': {
+            description: 'Train not found',
+            content: {
+              'application/json': {
+                schema: { type: 'object', properties: { error: { type: 'string' } } },
+              },
+            },
+          },
+        },
+      },
+    },
+    
+  },
+}
 
 const app = new Hono().basePath('/api/v1')
+
+
+app.get('/doc', (c) => {
+  return c.json(openApiDoc)
+})
+
+// Use the middleware to serve Swagger UI at /ui
+app.get('/ui', swaggerUI({ url: '/api/v1/doc' }));
+
+app.get('/healthcheck', (c) => {
+  return c.json({ status: 'ok' })
+})
 
 // Get train by tz
 app.get('/trains/:tz', async (c) => {
@@ -25,8 +135,10 @@ app.get('/trains/:tz', async (c) => {
   }
   
   const row = result[0];
+
+  const { id, ...rest } = row.trains;
   const train = {
-    ...row.trains,
+    ...rest,
     className: row.classes?.id ? row.classes.name : null
   }
   
@@ -36,6 +148,8 @@ app.get('/trains/:tz', async (c) => {
 // Get list of trains by partial query (name or tz)
 app.get('/trains', async (c) => {
   const query = c.req.query('query')
+  const activeOnly = c.req.query('activeOnly')
+  const activeOnlyBool = Boolean(activeOnly)
   
   let results;
   
@@ -45,6 +159,7 @@ app.get('/trains', async (c) => {
       .select()
       .from(trains)
       .leftJoin(classes, eq(trains.classId, classes.id))
+      .where(activeOnlyBool ? eq(trains.isActive, true) : undefined)
       .limit(100)
   } else {
     // Try to parse as number for tz search
@@ -52,13 +167,17 @@ app.get('/trains', async (c) => {
     const isTzSearch = !isNaN(tzNumber)
     
     // Build search conditions
-    const conditions = isTzSearch
+    let conditions = isTzSearch
       ? or(
           eq(trains.tz, tzNumber),
-          like(trains.name, `%${query}%`)
+          like(trains.name, `%${query}%`),
         )
       : like(trains.name, `%${query}%`)
     
+    if(activeOnlyBool) {
+      conditions = and(conditions, eq(trains.isActive, true))
+    }
+
     results = await db
       .select()
       .from(trains)
@@ -68,11 +187,14 @@ app.get('/trains', async (c) => {
   }
   
   // Format results to match expected structure
-  const formattedResults = results.map(row => ({
-    ...row.trains,
-    className: row.classes?.id ? row.classes.name : null
-  }))
-  
+  const formattedResults = results.map(row => {
+    const { id, ...rest } = row.trains;
+    return {
+      ...rest,
+      className: row.classes?.id ? row.classes.name : null
+    }
+  })
+
   return c.json(formattedResults)
 })
 
@@ -94,12 +216,13 @@ app.get('/classes/:classId/trains', async (c) => {
     .where(eq(trains.classId, classId))
   
   // Format results to match expected structure
-  const formattedResults = results.map(row => ({
-    ...row.trains,
-    className: row.classes?.id ? row.classes.name : null
-  }))
+  const formattedResults = results.map(row => {
+    const { id, ...rest } = row.trains;
+    return {
+      ...rest,
+      className: row.classes?.id ? row.classes.name : null
+    }
+  })
   
   return c.json(formattedResults)
 })
-
-export default app
