@@ -1,0 +1,9 @@
+node_modules
+local
+.env*
+.git
+.gitignore
+.cursor
+*.md
+LICENSE.txt
+

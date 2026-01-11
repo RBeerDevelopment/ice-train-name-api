@@ -102,4 +102,7 @@ app.get('/classes/:classId/trains', async (c) => {
   return c.json(formattedResults)
 })
 
-export default app
+export default {
+  port: process.env.PORT || 3000,
+  fetch: app.fetch,
+}
