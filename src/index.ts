@@ -96,8 +96,15 @@ const openApiDoc = {
 const app = new Hono().basePath('/api/v1')
 
 
-app.get('/', (c) => {
-  return c.json(openApiDoc)
+app.get('/doc', (c) => {
+  return c.json(swaggerUI)
+})
+
+// Use the middleware to serve Swagger UI at /ui
+app.get('/ui', swaggerUI({ url: '/doc' }));
+
+app.get('/healthcheck', (c) => {
+  return c.json({ status: 'ok' })
 })
 
 // Get train by tz
